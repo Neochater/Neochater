@@ -78,7 +78,6 @@
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Neochater&show_icons=true&theme=dracula)
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Neochater&layout=compact&theme=dracula)
 
 ---
 
