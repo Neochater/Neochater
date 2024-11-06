@@ -182,62 +182,64 @@ Además del desarrollo web, tengo un fuerte interés en:
 
 ### 📝 Lenguajes de Programación
 
-1. **JavaScript** - 🚀 Dominante en desarrollo web y aplicaciones interactivas. Imprescindible para front-end y full-stack.
-2. **Python** - 🐍 Versátil para backend, ciencia de datos, IA, scripting y más. Fácil de aprender y con grandes bibliotecas.
-3. **TypeScript** - 🦾 Extiende JavaScript con tipado estático, ideal para aplicaciones grandes y escalables.
-4. **Java** - ☕ Usado ampliamente en aplicaciones empresariales y desarrollo Android, robusto y bien soportado.
-5. **C++** - 💻 Potente y rápido, utilizado en sistemas, aplicaciones de alto rendimiento y videojuegos.
-6. **PHP** - 🌐 Lenguaje de backend ampliamente usado en aplicaciones web, especialmente con frameworks como Laravel.
-7. **Ruby** - 🔥 Ideal para el desarrollo rápido de aplicaciones web, especialmente con el framework Ruby on Rails.
-8. **C#** - ⚙️ Lenguaje robusto y versátil, popular en el desarrollo de aplicaciones de escritorio, videojuegos y plataformas de Microsoft.
-9. **Go (Golang)** - ⚡ Conocido por su rendimiento, eficiencia y simplicidad, ideal para aplicaciones backend y sistemas distribuidos.
-10. **Swift** - 🍏 Lenguaje de programación para aplicaciones iOS/macOS, moderno y fácil de usar.
-11. **Kotlin** - 🌱 Lenguaje moderno para desarrollo Android, interoperable con Java y más conciso.
-12. **Rust** - 🦀 Lenguaje de bajo nivel que ofrece seguridad de memoria, usado en sistemas y software de alto rendimiento.
-13. **HTML** - 📄 Esencial para la estructura de páginas web, es el lenguaje base de la web.
-14. **CSS** - 🎨 Usado para estilizar las páginas web, vital para la creación de interfaces atractivas y responsivas.
-15. **SQL** - 🔍 Lenguaje para gestionar y consultar bases de datos, esencial para el trabajo con bases de datos relacionales.
-16. **Shell Scripting (Bash)** - 🖥️ Para automatización, administración de sistemas y scripts en entornos Unix.
-17. **R** - 📊 Lenguaje especializado en estadísticas y análisis de datos, muy popular en el campo académico y científico.
-18. **Scala** - ⚙️ Combinación de programación funcional y orientada a objetos, usado en aplicaciones de Big Data.
-19. **Objective-C** - 🖥️ Lenguaje usado históricamente para aplicaciones macOS y iOS, antes de Swift.
-20. **Lua** - 🕹️ Lenguaje ligero utilizado en videojuegos y scripts embebidos, como en motores como Love2D y Roblox.
+1. <a href="https://www.javascript.com" target="_blank">**JavaScript**</a> - 🚀 Dominante en desarrollo web y aplicaciones interactivas. Imprescindible para front-end y full-stack.
+2. <a href="https://www.python.org" target="_blank">**Python**</a> - 🐍 Versátil para backend, ciencia de datos, IA, scripting y más. Fácil de aprender y con grandes bibliotecas.
+3. <a href="https://www.typescriptlang.org" target="_blank">**TypeScript**</a> - 🦾 Extiende JavaScript con tipado estático, ideal para aplicaciones grandes y escalables.
+4. <a href="https://www.java.com" target="_blank">**Java**</a> - ☕ Usado ampliamente en aplicaciones empresariales y desarrollo Android, robusto y bien soportado.
+5. <a href="https://isocpp.org/" target="_blank">**C++**</a> - 💻 Potente y rápido, utilizado en sistemas, aplicaciones de alto rendimiento y videojuegos.
+6. <a href="https://www.php.net" target="_blank">**PHP**</a> - 🌐 Lenguaje de backend ampliamente usado en aplicaciones web, especialmente con frameworks como Laravel.
+7. <a href="https://www.ruby-lang.org" target="_blank">**Ruby**</a> - 🔥 Ideal para el desarrollo rápido de aplicaciones web, especialmente con el framework Ruby on Rails.
+8. <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">**C#**</a> - ⚙️ Lenguaje robusto y versátil, popular en el desarrollo de aplicaciones de escritorio, videojuegos y plataformas de Microsoft.
+9. <a href="https://golang.org" target="_blank">**Go (Golang)**</a> - ⚡ Conocido por su rendimiento, eficiencia y simplicidad, ideal para aplicaciones backend y sistemas distribuidos.
+10. <a href="https://developer.apple.com/swift/" target="_blank">**Swift**</a> - 🍏 Lenguaje de programación para aplicaciones iOS/macOS, moderno y fácil de usar.
+11. <a href="https://kotlinlang.org/" target="_blank">**Kotlin**</a> - 🌱 Lenguaje moderno para desarrollo Android, interoperable con Java y más conciso.
+12. <a href="https://www.rust-lang.org/" target="_blank">**Rust**</a> - 🦀 Lenguaje de bajo nivel que ofrece seguridad de memoria, usado en sistemas y software de alto rendimiento.
+13. <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">**HTML**</a> - 📄 Esencial para la estructura de páginas web, es el lenguaje base de la web.
+14. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">**CSS**</a> - 🎨 Usado para estilizar las páginas web, vital para la creación de interfaces atractivas y responsivas.
+15. <a href="https://www.mysql.com/" target="_blank">**SQL**</a> - 🔍 Lenguaje para gestionar y consultar bases de datos, esencial para el trabajo con bases de datos relacionales.
+16. <a href="https://www.gnu.org/software/bash/" target="_blank">**Shell Scripting (Bash)**</a> - 🖥️ Para automatización, administración de sistemas y scripts en entornos Unix.
+17. <a href="https://www.r-project.org/" target="_blank">**R**</a> - 📊 Lenguaje especializado en estadísticas y análisis de datos, muy popular en el campo académico y científico.
+18. <a href="https://www.scala-lang.org/" target="_blank">**Scala**</a> - ⚙️ Combinación de programación funcional y orientada a objetos, usado en aplicaciones de Big Data.
+19. <a href="https://developer.apple.com/documentation/objectivec" target="_blank">**Objective-C**</a> - 🖥️ Lenguaje usado históricamente para aplicaciones macOS y iOS, antes de Swift.
+20. <a href="https://www.lua.org/" target="_blank">**Lua**</a> - 🕹️ Lenguaje ligero utilizado en videojuegos y scripts embebidos, como en motores como Love2D y Roblox.
 
 ---
 
 ## 🎨 Tier List de Herramientas y Tecnologías de Desarrollo Web
 
 ### 🖥️ Frontend
-1. **React** - 🚀 Versátil y popular para aplicaciones interactivas.
-2. **Vue.js** - 🌱 Progresivo y fácil de integrar.
-3. **Angular** - 🛠️ Completo, ideal para aplicaciones empresariales.
-4. **Svelte** - ⚡ Sin sobrecarga en el navegador, compila en tiempo de construcción.
-5. **Alpine.js** - 🔗 Minimalista, ideal para funcionalidades interactivas ligeras.
-6. **Bootstrap** - 🎨 Popular para diseño responsivo rápido.
+1. <a href="https://reactjs.org/" target="_blank">**React**</a> - 🚀 Versátil y popular para aplicaciones interactivas.
+2. <a href="https://vuejs.org/" target="_blank">**Vue.js**</a> - 🌱 Progresivo y fácil de integrar.
+3. <a href="https://angular.io/" target="_blank">**Angular**</a> - 🛠️ Completo, ideal para aplicaciones empresariales.
+4. <a href="https://svelte.dev/" target="_blank">**Svelte**</a> - ⚡ Sin sobrecarga en el navegador, compila en tiempo de construcción.
+5. <a href="https://alpinejs.dev/" target="_blank">**Alpine.js**</a> - 🔗 Minimalista, ideal para funcionalidades interactivas ligeras.
+6. <a href="https://getbootstrap.com/" target="_blank">**Bootstrap**</a> - 🎨 Popular para diseño responsivo rápido.
 
 ### 🔧 Backend
-1. **Express.js** - 🟢 Minimalista y rápido para APIs y aplicaciones en Node.js.
-2. **Django** - 🦾 Rápido y seguro, con muchas herramientas integradas.
-3. **Flask** - 🌶️ Ligero y flexible, ideal para proyectos pequeños en Python.
-4. **Ruby on Rails** - 🚄 Rápido para prototipos, con herramientas integradas.
-5. **Spring Boot** - 💼 Robusto y popular en aplicaciones Java empresariales.
-6. **ASP.NET** - 💻 Confiable y completo para aplicaciones en .NET.
+1. <a href="https://expressjs.com/" target="_blank">**Express.js**</a> - 🟢 Minimalista y rápido para APIs y aplicaciones en Node.js.
+2. <a href="https://www.djangoproject.com/" target="_blank">**Django**</a> - 🦾 Rápido y seguro, con muchas herramientas integradas.
+3. <a href="https://flask.palletsprojects.com/" target="_blank">**Flask**</a> - 🌶️ Ligero y flexible, ideal para proyectos pequeños en Python.
+4. <a href="https://rubyonrails.org/" target="_blank">**Ruby on Rails**</a> - 🚄 Rápido para prototipos, con herramientas integradas.
+5. <a href="https://spring.io/projects/spring-boot" target="_blank">**Spring Boot**</a> - 💼 Robusto y popular en aplicaciones Java empresariales.
+6. <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank">**ASP.NET**</a> - 💻 Confiable y completo para aplicaciones en .NET.
 
 ### 🖧 Bases de Datos
-1. **MySQL** - 💾 Popular, confiable y ampliamente utilizado.
-2. **PostgreSQL** - 🐘 Robusto y soporta funcionalidades avanzadas.
-3. **MongoDB** - 📄 NoSQL flexible y escalable.
-4. **SQLite** - 📱 Ideal para prototipos y desarrollo ligero.
-5. **Redis** - ⚡ Caché y almacenamiento de datos en memoria.
-6. **Cassandra** - 📊 NoSQL distribuido, ideal para grandes volúmenes de datos.
+1. <a href="https://www.mysql.com/" target="_blank">**MySQL**</a> - 💾 Popular, confiable y ampliamente utilizado.
+2. <a href="https://www.postgresql.org/" target="_blank">**PostgreSQL**</a> - 🐘 Robusto y soporta funcionalidades avanzadas.
+3. <a href="https://www.mongodb.com/" target="_blank">**MongoDB**</a> - 📄 NoSQL flexible y escalable.
+4. <a href="https://sqlite.org/index.html" target="_blank">**SQLite**</a> - 📱 Ideal para prototipos y desarrollo ligero.
+5. <a href="https://redis.io/" target="_blank">**Redis**</a> - ⚡ Caché y almacenamiento de datos en memoria.
+6. <a href="https://cassandra.apache.org/" target="_blank">**Cassandra**</a> - 📊 NoSQL distribuido, ideal para grandes volúmenes de datos.
 
 ### 🚀 DevOps y CI/CD
-1. **Docker** - 🐋 Contenedores para desarrollo y despliegue consistentes.
-2. **Kubernetes** - 🚢 Orquestación de contenedores para aplicaciones escalables.
-3. **Jenkins** - 🤖 Automatización CI/CD versátil y potente.
-4. **GitHub Actions** - 🔄 Integración y despliegue continuo dentro de GitHub.
-5. **CircleCI** - 🔁 CI/CD con opciones avanzadas de integración.
-6. **Ansible** - ⚙️ Automatización de configuración e infraestructura.
+1. <a href="https://www.docker.com/" target="_blank">**Docker**</a> - 🐋 Contenedores para desarrollo y despliegue consistentes.
+2. <a href="https://kubernetes.io/" target="_blank">**Kubernetes**</a> - 🚢 Orquestación de contenedores para aplicaciones escalables.
+3. <a href="https://www.jenkins.io/" target="_blank">**Jenkins**</a> - 🤖 Automatización CI/CD versátil y potente.
+4. <a href="https://github.com/features/actions" target="_blank">**GitHub Actions**</a> - 🔄 Integración y despliegue continuo dentro de GitHub.
+5. <a href="https://circleci.com/" target="_blank">**CircleCI**</a> - 🔁 CI/CD con opciones avanzadas de integración.
+6. <a href="https://www.ansible.com/" target="_blank">**Ansible**</a> - ⚙️ Automatización de configuración e infraestructura.
+
+---
 
 ### 🧪 Pruebas Automatizadas
 1. **Jest** - 🧩 Ideal para pruebas en JavaScript y React.
