@@ -39,9 +39,10 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=postgres&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=jenkins&logoColor=white)
 
-**Inteligencia Artificial:** 
+**Inteligencia Artificial:**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=jenkins&logoColor=white)
- TensorFlow, Keras, Scikit-Learn
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=jenkins&logoColor=white)
+  Keras, Scikit-Learn
 
 ---
 
