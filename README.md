@@ -192,7 +192,7 @@ Además del desarrollo web, tengo un fuerte interés en:
 
 ¡Muchas gracias por usar mis proyectos! Si quieres ir un paso más allá y apoyar mi trabajo de código abierto, invítame un café:
 
-<a href='https://ko-fi.com/Q5Q860KQ2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</a href='https://ko-fi.com/Q5Q860KQ2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 Para apoyar el proyecto directamente, siéntete libre de abrir propuestas para sugerencias de íconos, ¡o contribuye con una pull request!
 
