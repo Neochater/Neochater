@@ -178,7 +178,7 @@ Además del desarrollo web, tengo un fuerte interés en:
 
 ---
 
-## 📫 Conectemos
+## 📫 Contáctame
 
 ¿Tienes un proyecto interesante? ¿Quieres colaborar en desarrollo open source o simplemente decir hola? ¡No dudes en contactarme!
 
