@@ -98,11 +98,21 @@
 
 ## 🌐 Otros Proyectos Destacados
 
-### [📦 Inventario Inteligente - Sistema de Gestión de Almacenes](https://github.com/enriqueprim/inventario-inteligente)
-*Automatización del control de inventario en tiempo real usando IoT y tecnología en la nube.*
+### [📝 Generador de Texto con Redes Neuronales Recurrentes](https://github.com/enriqueprim/generador-texto-RNN)
+*Modelo que utiliza redes neuronales recurrentes (RNN) para crear texto automáticamente.*
 
-### [💼 Portal de Recursos Humanos](https://github.com/enriqueprim/portal-rrhh)
-*Portal de gestión de personal con un sistema de permisos robusto para proteger los datos sensibles de los empleados.*
+- **Tecnologías:** Python, TensorFlow, Keras
+- **Características:**
+  - Generación de texto secuencial con capas LSTM
+  - Configuración personalizable de estilo y tono
+
+### [🔍 Detección de Fraude en Transacciones Financieras](https://github.com/enriqueprim/deteccion-fraude-finanzas)
+*Sistema de detección de fraude que identifica patrones sospechosos en transacciones financieras.*
+
+- **Tecnologías:** Python, Scikit-Learn, XGBoost
+- **Características:**
+  - Modelos de clasificación para detectar fraude
+  - Visualización de patrones y estadísticas de fraude
 
 
 ---
