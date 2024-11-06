@@ -224,16 +224,6 @@ Además del desarrollo web, tengo un fuerte interés en:
 
 ---
 
-## 📫 Contáctame
-
-¿Tienes un proyecto interesante? ¿Quieres colaborar en desarrollo open source o simplemente decir hola? ¡No dudes en contactarme!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/enriqueprim)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/enriqueprim)
-[![Correo Electrónico](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:enrique.prim@example.com)
-
----
-
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
@@ -298,3 +288,14 @@ Para apoyar el proyecto directamente, siéntete libre de abrir propuestas para s
 ---
 
 Gracias por visitar mi perfil. ¡Vamos a crear algo increíble juntos!
+
+---
+
+## 📫 Contáctame
+
+¿Tienes un proyecto interesante? ¿Quieres colaborar en desarrollo open source o simplemente decir hola? ¡No dudes en contactarme!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/enriqueprim)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/enriqueprim)
+[![Correo Electrónico](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:enrique.prim@example.com)
+
