@@ -178,6 +178,33 @@ Además del desarrollo web, tengo un fuerte interés en:
 
 ---
 
+## 💻 Tier List de Tipos de Código
+
+### 📝 Lenguajes de Programación
+
+1. **JavaScript** - 🚀 Dominante en desarrollo web y aplicaciones interactivas. Imprescindible para front-end y full-stack.
+2. **Python** - 🐍 Versátil para backend, ciencia de datos, IA, scripting y más. Fácil de aprender y con grandes bibliotecas.
+3. **TypeScript** - 🦾 Extiende JavaScript con tipado estático, ideal para aplicaciones grandes y escalables.
+4. **Java** - ☕ Usado ampliamente en aplicaciones empresariales y desarrollo Android, robusto y bien soportado.
+5. **C++** - 💻 Potente y rápido, utilizado en sistemas, aplicaciones de alto rendimiento y videojuegos.
+6. **PHP** - 🌐 Lenguaje de backend ampliamente usado en aplicaciones web, especialmente con frameworks como Laravel.
+7. **Ruby** - 🔥 Ideal para el desarrollo rápido de aplicaciones web, especialmente con el framework Ruby on Rails.
+8. **C#** - ⚙️ Lenguaje robusto y versátil, popular en el desarrollo de aplicaciones de escritorio, videojuegos y plataformas de Microsoft.
+9. **Go (Golang)** - ⚡ Conocido por su rendimiento, eficiencia y simplicidad, ideal para aplicaciones backend y sistemas distribuidos.
+10. **Swift** - 🍏 Lenguaje de programación para aplicaciones iOS/macOS, moderno y fácil de usar.
+11. **Kotlin** - 🌱 Lenguaje moderno para desarrollo Android, interoperable con Java y más conciso.
+12. **Rust** - 🦀 Lenguaje de bajo nivel que ofrece seguridad de memoria, usado en sistemas y software de alto rendimiento.
+13. **HTML** - 📄 Esencial para la estructura de páginas web, es el lenguaje base de la web.
+14. **CSS** - 🎨 Usado para estilizar las páginas web, vital para la creación de interfaces atractivas y responsivas.
+15. **SQL** - 🔍 Lenguaje para gestionar y consultar bases de datos, esencial para el trabajo con bases de datos relacionales.
+16. **Shell Scripting (Bash)** - 🖥️ Para automatización, administración de sistemas y scripts en entornos Unix.
+17. **R** - 📊 Lenguaje especializado en estadísticas y análisis de datos, muy popular en el campo académico y científico.
+18. **Scala** - ⚙️ Combinación de programación funcional y orientada a objetos, usado en aplicaciones de Big Data.
+19. **Objective-C** - 🖥️ Lenguaje usado históricamente para aplicaciones macOS y iOS, antes de Swift.
+20. **Lua** - 🕹️ Lenguaje ligero utilizado en videojuegos y scripts embebidos, como en motores como Love2D y Roblox.
+
+---
+
 ## 🎨 Tier List de Herramientas y Tecnologías de Desarrollo Web
 
 ### 🖥️ Frontend
