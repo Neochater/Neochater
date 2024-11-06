@@ -177,6 +177,87 @@ Además del desarrollo web, tengo un fuerte interés en:
 - **Seguridad en la Nube:** Implementación de políticas de seguridad en entornos de AWS y Azure para aplicaciones críticas.
 
 ---
+
+## 🎨 Tier List de Herramientas y Tecnologías de Desarrollo Web
+
+### 🖥️ Frontend
+1. **React** - 🚀 Versátil y popular para aplicaciones interactivas.
+2. **Vue.js** - 🌱 Progresivo y fácil de integrar.
+3. **Angular** - 🛠️ Completo, ideal para aplicaciones empresariales.
+4. **Svelte** - ⚡ Sin sobrecarga en el navegador, compila en tiempo de construcción.
+5. **Alpine.js** - 🔗 Minimalista, ideal para funcionalidades interactivas ligeras.
+6. **Bootstrap** - 🎨 Popular para diseño responsivo rápido.
+
+### 🔧 Backend
+1. **Express.js** - 🟢 Minimalista y rápido para APIs y aplicaciones en Node.js.
+2. **Django** - 🦾 Rápido y seguro, con muchas herramientas integradas.
+3. **Flask** - 🌶️ Ligero y flexible, ideal para proyectos pequeños en Python.
+4. **Ruby on Rails** - 🚄 Rápido para prototipos, con herramientas integradas.
+5. **Spring Boot** - 💼 Robusto y popular en aplicaciones Java empresariales.
+6. **ASP.NET** - 💻 Confiable y completo para aplicaciones en .NET.
+
+### 🖧 Bases de Datos
+1. **MySQL** - 💾 Popular, confiable y ampliamente utilizado.
+2. **PostgreSQL** - 🐘 Robusto y soporta funcionalidades avanzadas.
+3. **MongoDB** - 📄 NoSQL flexible y escalable.
+4. **SQLite** - 📱 Ideal para prototipos y desarrollo ligero.
+5. **Redis** - ⚡ Caché y almacenamiento de datos en memoria.
+6. **Cassandra** - 📊 NoSQL distribuido, ideal para grandes volúmenes de datos.
+
+### 🚀 DevOps y CI/CD
+1. **Docker** - 🐋 Contenedores para desarrollo y despliegue consistentes.
+2. **Kubernetes** - 🚢 Orquestación de contenedores para aplicaciones escalables.
+3. **Jenkins** - 🤖 Automatización CI/CD versátil y potente.
+4. **GitHub Actions** - 🔄 Integración y despliegue continuo dentro de GitHub.
+5. **CircleCI** - 🔁 CI/CD con opciones avanzadas de integración.
+6. **Ansible** - ⚙️ Automatización de configuración e infraestructura.
+
+### 🧪 Pruebas Automatizadas
+1. **Jest** - 🧩 Ideal para pruebas en JavaScript y React.
+2. **Mocha** - ☕ Flexible y popular en el ecosistema Node.js.
+3. **Cypress** - 🔍 Pruebas end-to-end intuitivas para aplicaciones web.
+4. **Selenium** - 🌐 Pruebas de interfaz de usuario en múltiples navegadores.
+5. **JUnit** - 📘 Clásico en Java para pruebas unitarias.
+6. **PyTest** - 🐍 Potente y fácil de usar para Python.
+
+### 📜 Control de Versiones
+1. **Git** - 📂 Imprescindible para gestión de versiones.
+2. **GitHub** - 🌐 Plataforma de colaboración y control de versiones.
+3. **GitLab** - 🔐 Herramientas avanzadas de CI/CD integradas.
+4. **Bitbucket** - 🛠️ Integración con Jira y herramientas de Atlassian.
+5. **Mercurial** - ⚖️ Alternativa a Git, conocido por su simplicidad.
+6. **Perforce** - 🏢 Utilizado en entornos empresariales y grandes equipos.
+
+### 💻 Entornos de Desarrollo (IDEs)
+1. **Visual Studio Code** - 🔵 Popular, extensible y con una gran comunidad.
+2. **WebStorm** - 🟠 IDE completo para desarrollo en JavaScript y TypeScript.
+3. **IntelliJ IDEA** - 🔥 Excelente para desarrollo en Java y otras tecnologías.
+4. **PyCharm** - 🐍 IDE optimizado para Python.
+5. **Eclipse** - ☕ IDE para proyectos Java, con herramientas avanzadas.
+6. **Atom** - ⚛️ Editor ligero y personalizable.
+
+### 📦 Otras Herramientas y Utilidades
+1. **Astro** - 🚀 Generador de sitios estáticos, ideal para rendimiento.
+2. **Webpack** - 📦 Empaquetado y optimización de módulos de JavaScript.
+3. **Gulp** - 🔄 Automatización de tareas de desarrollo.
+4. **Postman** - 📫 Pruebas y documentación de APIs.
+5. **Figma** - 🎨 Diseño colaborativo de interfaces.
+6. **Storybook** - 📚 Desarrollo y pruebas de componentes UI.
+
+### 🖥️ Sistemas Operativos
+1. **Linux (Ubuntu)** - 🐧 Popular entre desarrolladores y para servidores.
+2. **Windows** - 🖥️ Amplio soporte de software y herramientas.
+3. **macOS** - 🍏 Utilizado en diseño y desarrollo, especialmente en entornos creativos.
+4. **CentOS** - 🖧 Ideal para servidores y aplicaciones empresariales.
+5. **Debian** - 🖧 Estable y confiable, común en servidores.
+6. **Fedora** - 🔵 Innovador y utilizado en entornos de desarrollo.
+
+---
+
+Espero que encuentres esta lista útil. ¡Siempre estoy explorando y aprendiendo nuevas herramientas y tecnologías para mejorar el flujo de desarrollo! 🚀
+
+---
+
 ## 🚀 Tier List de Frameworks de Desarrollo Web
 
 ### 🖥️ Frontend Frameworks
