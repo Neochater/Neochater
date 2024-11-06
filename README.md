@@ -115,14 +115,6 @@
   - Modelos de clasificación para detectar fraude
   - Visualización de patrones y estadísticas de fraude
 
-
----
-
-
-## 📈 Mis estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Neochater&show_icons=true&theme=dracula)
-
 ---
 
 ## 🎓 Formación Académica
