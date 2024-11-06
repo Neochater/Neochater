@@ -39,6 +39,10 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=postgres&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=jenkins&logoColor=white)
 
+**Inteligencia Artificial:** 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+ TensorFlow, Keras, Scikit-Learn
+
 ---
 
 ## 🚀 Proyectos Destacados
