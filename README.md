@@ -122,6 +122,14 @@
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Neochater&show_icons=true&theme=dracula)
 
+---
+
+## 🌍 Idiomas
+
+- **Castellano:** Nativo
+- **Valenciano:** Nativo
+- **Inglés:** Avanzado (B2)
+- **Italiano:** Intermedio (B1)
 
 ---
 
