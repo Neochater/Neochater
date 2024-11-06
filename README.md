@@ -74,6 +74,40 @@
 
 ---
 
+## 🚀 Proyectos Destacados en Inteligencia Artificial
+
+### [🤖 Asistente de Chat Automático](https://github.com/enriqueprim/asistente-chat-automatico)
+*Un asistente virtual que utiliza NLP para interpretar y responder consultas en lenguaje natural.*
+
+- **Descripción:** Este asistente de chat está diseñado para brindar respuestas automáticas y personalizadas, mejorando la interacción en plataformas de servicio al cliente.
+- **Tecnologías:** Python, NLTK, TensorFlow, Flask, WebSockets
+
+### [📊 Análisis de Sentimiento en Redes Sociales](https://github.com/enriqueprim/analisis-sentimiento-redes)
+*Herramienta de análisis que determina la polaridad de sentimientos en publicaciones de redes sociales, ayudando a las empresas a entender las opiniones del público.*
+
+- **Descripción:** Clasificación de publicaciones en categorías de sentimiento positivo, negativo o neutral.
+- **Tecnologías:** Python, Scikit-Learn, Pandas, Tweepy, Matplotlib
+
+### [🧠 Reconocimiento de Imágenes con Redes Neuronales Convolucionales](https://github.com/enriqueprim/reconocimiento-imagenes)
+*Modelo de clasificación de imágenes basado en redes neuronales convolucionales (CNN) para identificar objetos en imágenes.*
+
+- **Descripción:** Proyecto orientado a la detección de objetos en imágenes utilizando CNN, aplicable a diversas áreas como seguridad, salud y automoción.
+- **Tecnologías:** Python, TensorFlow, Keras, OpenCV
+
+---
+
+## 🌐 Otros Proyectos Destacados
+
+### [📦 Inventario Inteligente - Sistema de Gestión de Almacenes](https://github.com/enriqueprim/inventario-inteligente)
+*Automatización del control de inventario en tiempo real usando IoT y tecnología en la nube.*
+
+### [💼 Portal de Recursos Humanos](https://github.com/enriqueprim/portal-rrhh)
+*Portal de gestión de personal con un sistema de permisos robusto para proteger los datos sensibles de los empleados.*
+
+
+---
+
+
 ## 📈 Mis estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Neochater&show_icons=true&theme=dracula)
@@ -99,6 +133,8 @@
 - **Full-Stack Web Development** - *Udacity Nanodegree*
 - **Machine Learning Specialization** - *Coursera (Stanford University)*
 - **Certified Ethical Hacker (CEH)** - *EC-Council*
+- **Certified Kubernetes Administrator (CKA)** - *Linux Foundation*
+- **Machine Learning Specialization** - *Coursera (Stanford University)*
 
 ---
 
