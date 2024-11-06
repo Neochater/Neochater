@@ -140,8 +140,8 @@
 
 - **Castellano:** Nativo
 - **Valenciano:** Nativo
-- **Inglés:** Avanzado (B2)
-- **Italiano:** Intermedio (B1)
+- **Inglés:** Intermedio (B2)
+- **Italiano:** Medio (B1)
 
 ---
 
