@@ -124,15 +124,6 @@
 
 ---
 
-## 🌍 Idiomas
-
-- **Castellano:** Nativo
-- **Valenciano:** Nativo
-- **Inglés:** Avanzado (B2)
-- **Italiano:** Intermedio (B1)
-
----
-
 ## 🎓 Formación Académica
 
 - **Máster en Ingeniería de Software**  
@@ -142,6 +133,15 @@
 - **Grado en Informática**  
   Universidad de Valencia  
   *Enfoque en el desarrollo de aplicaciones y bases de datos.*
+
+---
+
+## 🌍 Idiomas
+
+- **Castellano:** Nativo
+- **Valenciano:** Nativo
+- **Inglés:** Avanzado (B2)
+- **Italiano:** Intermedio (B1)
 
 ---
 
