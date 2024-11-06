@@ -29,7 +29,7 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgres&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-%DF0202.svg?style=flat&logo=postgres&logoColor=white)
 
 **Herramientas de Desarrollo y CI/CD:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
