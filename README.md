@@ -14,7 +14,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-c%-1572B6.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-c%23-1572B6.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
 **Desarrollo Front-End:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
