@@ -188,13 +188,13 @@ Además del desarrollo web, tengo un fuerte interés en:
 
 ---
 
-## 💖 Support the Project
+## 💖 Apoya el proyecto
 
-Thank you so much already for using my projects! If you want to go a step further and support my open source work, buy me a coffee:
+¡Muchas gracias por usar mis proyectos! Si quieres ir un paso más allá y apoyar mi trabajo de código abierto, invítame un café:
 
 <a href='https://ko-fi.com/Q5Q860KQ2' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-To support the project directly, feel free to open issues for icon suggestions, or contribute with a pull request!
+Para apoyar el proyecto directamente, siéntete libre de abrir propuestas para sugerencias de íconos, ¡o contribuye con una pull request!
 
 ---
 
