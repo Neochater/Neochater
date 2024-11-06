@@ -40,7 +40,7 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=jenkins&logoColor=white)
 
 **Inteligencia Artificial:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=jenkins&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%8FCE00.svg?style=flat&logo=jenkins&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=jenkins&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=jenkins&logoColor=white)
 
