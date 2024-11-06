@@ -42,7 +42,7 @@
 **Inteligencia Artificial:**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=jenkins&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=jenkins&logoColor=white)
-  Keras, Scikit-Learn
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=jenkins&logoColor=white)
 
 ---
 
