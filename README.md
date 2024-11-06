@@ -188,6 +188,10 @@ Además del desarrollo web, tengo un fuerte interés en:
 
 ---
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
+---
+
 ## 🌟 Testimonios
 
 > "Enrique es uno de los mejores desarrolladores con los que he trabajado. Su dedicación y conocimiento profundo de sistemas complejos es impresionante."  
