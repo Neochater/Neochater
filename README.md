@@ -182,26 +182,26 @@ Además del desarrollo web, tengo un fuerte interés en:
 
 ### 📝 Lenguajes de Programación
 
-1. <a href="https://www.javascript.com" target="_blank">**JavaScript**</a> - 🚀 Dominante en desarrollo web y aplicaciones interactivas. Imprescindible para front-end y full-stack.
-2. <a href="https://www.python.org" target="_blank">**Python**</a> - 🐍 Versátil para backend, ciencia de datos, IA, scripting y más. Fácil de aprender y con grandes bibliotecas.
-3. <a href="https://www.typescriptlang.org" target="_blank">**TypeScript**</a> - 🦾 Extiende JavaScript con tipado estático, ideal para aplicaciones grandes y escalables.
-4. <a href="https://www.java.com" target="_blank">**Java**</a> - ☕ Usado ampliamente en aplicaciones empresariales y desarrollo Android, robusto y bien soportado.
-5. <a href="https://isocpp.org/" target="_blank">**C++**</a> - 💻 Potente y rápido, utilizado en sistemas, aplicaciones de alto rendimiento y videojuegos.
-6. <a href="https://www.php.net" target="_blank">**PHP**</a> - 🌐 Lenguaje de backend ampliamente usado en aplicaciones web, especialmente con frameworks como Laravel.
-7. <a href="https://www.ruby-lang.org" target="_blank">**Ruby**</a> - 🔥 Ideal para el desarrollo rápido de aplicaciones web, especialmente con el framework Ruby on Rails.
-8. <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">**C#**</a> - ⚙️ Lenguaje robusto y versátil, popular en el desarrollo de aplicaciones de escritorio, videojuegos y plataformas de Microsoft.
-9. <a href="https://golang.org" target="_blank">**Go (Golang)**</a> - ⚡ Conocido por su rendimiento, eficiencia y simplicidad, ideal para aplicaciones backend y sistemas distribuidos.
-10. <a href="https://developer.apple.com/swift/" target="_blank">**Swift**</a> - 🍏 Lenguaje de programación para aplicaciones iOS/macOS, moderno y fácil de usar.
-11. <a href="https://kotlinlang.org/" target="_blank">**Kotlin**</a> - 🌱 Lenguaje moderno para desarrollo Android, interoperable con Java y más conciso.
-12. <a href="https://www.rust-lang.org/" target="_blank">**Rust**</a> - 🦀 Lenguaje de bajo nivel que ofrece seguridad de memoria, usado en sistemas y software de alto rendimiento.
-13. <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">**HTML**</a> - 📄 Esencial para la estructura de páginas web, es el lenguaje base de la web.
-14. <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">**CSS**</a> - 🎨 Usado para estilizar las páginas web, vital para la creación de interfaces atractivas y responsivas.
-15. <a href="https://www.mysql.com/" target="_blank">**SQL**</a> - 🔍 Lenguaje para gestionar y consultar bases de datos, esencial para el trabajo con bases de datos relacionales.
-16. <a href="https://www.gnu.org/software/bash/" target="_blank">**Shell Scripting (Bash)**</a> - 🖥️ Para automatización, administración de sistemas y scripts en entornos Unix.
-17. <a href="https://www.r-project.org/" target="_blank">**R**</a> - 📊 Lenguaje especializado en estadísticas y análisis de datos, muy popular en el campo académico y científico.
-18. <a href="https://www.scala-lang.org/" target="_blank">**Scala**</a> - ⚙️ Combinación de programación funcional y orientada a objetos, usado en aplicaciones de Big Data.
-19. <a href="https://developer.apple.com/documentation/objectivec" target="_blank">**Objective-C**</a> - 🖥️ Lenguaje usado históricamente para aplicaciones macOS y iOS, antes de Swift.
-20. <a href="https://www.lua.org/" target="_blank">**Lua**</a> - 🕹️ Lenguaje ligero utilizado en videojuegos y scripts embebidos, como en motores como Love2D y Roblox.
+1. **<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a>** - 🚀 Dominante en desarrollo web y aplicaciones interactivas.
+2. **<a href="https://www.python.org/" target="_blank">Python</a>** - 🐍 Versátil para backend, ciencia de datos, IA, scripting y más.
+3. **<a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a>** - 🦾 Extiende JavaScript con tipado estático.
+4. **<a href="https://www.oracle.com/java/" target="_blank">Java</a>** - ☕ Usado ampliamente en aplicaciones empresariales y desarrollo Android.
+5. **<a href="https://isocpp.org/" target="_blank">C++</a>** - 💻 Potente y rápido, utilizado en sistemas y videojuegos.
+6. **<a href="https://www.php.net/" target="_blank">PHP</a>** - 🌐 Backend para aplicaciones web, especialmente con frameworks como Laravel.
+7. **<a href="https://www.ruby-lang.org/" target="_blank">Ruby</a>** - 🔥 Ideal para desarrollo rápido de aplicaciones web.
+8. **<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">C#</a>** - ⚙️ Popular en el desarrollo de aplicaciones de escritorio y videojuegos.
+9. **<a href="https://go.dev/" target="_blank">Go (Golang)</a>** - ⚡ Rendimiento, eficiencia y simplicidad para aplicaciones backend.
+10. **<a href="https://developer.apple.com/swift/" target="_blank">Swift</a>** - 🍏 Lenguaje para aplicaciones iOS/macOS.
+11. **<a href="https://kotlinlang.org/" target="_blank">Kotlin</a>** - 🌱 Moderno para desarrollo Android.
+12. **<a href="https://www.rust-lang.org/" target="_blank">Rust</a>** - 🦀 Ofrece seguridad de memoria, ideal para sistemas y alto rendimiento.
+13. **<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">HTML</a>** - 📄 Esencial para la estructura de páginas web.
+14. **<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a>** - 🎨 Usado para estilizar las páginas web.
+15. **<a href="https://www.sql.org/" target="_blank">SQL</a>** - 🔍 Lenguaje para gestionar y consultar bases de datos.
+16. **<a href="https://www.gnu.org/software/bash/" target="_blank">Shell Scripting (Bash)</a>** - 🖥️ Para automatización y administración de sistemas en entornos Unix.
+17. **<a href="https://www.r-project.org/" target="_blank">R</a>** - 📊 Especializado en estadísticas y análisis de datos.
+18. **<a href="https://scala-lang.org/" target="_blank">Scala</a>** - ⚙️ Programación funcional y orientada a objetos, usado en Big Data.
+19. **<a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank">Objective-C</a>** - 🖥️ Históricamente usado en macOS y iOS.
+20. **<a href="https://www.lua.org/" target="_blank">Lua</a>** - 🕹️ Lenguaje ligero para videojuegos y scripts embebidos.
 
 ---
 
