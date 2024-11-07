@@ -182,26 +182,26 @@ Además del desarrollo web, tengo un fuerte interés en:
 
 ### 📝 Lenguajes de Programación
 
-1. **<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a>** - 🚀 Dominante en desarrollo web y aplicaciones interactivas.
-2. **<a href="https://www.python.org/" target="_blank">Python</a>** - 🐍 Versátil para backend, ciencia de datos, IA, scripting y más.
-3. **<a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a>** - 🦾 Extiende JavaScript con tipado estático.
-4. **<a href="https://www.oracle.com/java/" target="_blank">Java</a>** - ☕ Usado ampliamente en aplicaciones empresariales y desarrollo Android.
-5. **<a href="https://isocpp.org/" target="_blank">C++</a>** - 💻 Potente y rápido, utilizado en sistemas y videojuegos.
-6. **<a href="https://www.php.net/" target="_blank">PHP</a>** - 🌐 Backend para aplicaciones web, especialmente con frameworks como Laravel.
-7. **<a href="https://www.ruby-lang.org/" target="_blank">Ruby</a>** - 🔥 Ideal para desarrollo rápido de aplicaciones web.
-8. **<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">C#</a>** - ⚙️ Popular en el desarrollo de aplicaciones de escritorio y videojuegos.
-9. **<a href="https://go.dev/" target="_blank">Go (Golang)</a>** - ⚡ Rendimiento, eficiencia y simplicidad para aplicaciones backend.
-10. **<a href="https://developer.apple.com/swift/" target="_blank">Swift</a>** - 🍏 Lenguaje para aplicaciones iOS/macOS.
-11. **<a href="https://kotlinlang.org/" target="_blank">Kotlin</a>** - 🌱 Moderno para desarrollo Android.
-12. **<a href="https://www.rust-lang.org/" target="_blank">Rust</a>** - 🦀 Ofrece seguridad de memoria, ideal para sistemas y alto rendimiento.
-13. **<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">HTML</a>** - 📄 Esencial para la estructura de páginas web.
-14. **<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a>** - 🎨 Usado para estilizar las páginas web.
-15. **<a href="https://www.sql.org/" target="_blank">SQL</a>** - 🔍 Lenguaje para gestionar y consultar bases de datos.
-16. **<a href="https://www.gnu.org/software/bash/" target="_blank">Shell Scripting (Bash)</a>** - 🖥️ Para automatización y administración de sistemas en entornos Unix.
-17. **<a href="https://www.r-project.org/" target="_blank">R</a>** - 📊 Especializado en estadísticas y análisis de datos.
-18. **<a href="https://scala-lang.org/" target="_blank">Scala</a>** - ⚙️ Programación funcional y orientada a objetos, usado en Big Data.
-19. **<a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank">Objective-C</a>** - 🖥️ Históricamente usado en macOS y iOS.
-20. **<a href="https://www.lua.org/" target="_blank">Lua</a>** - 🕹️ Lenguaje ligero para videojuegos y scripts embebidos.
+1. **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** - 🚀 Dominante en desarrollo web y aplicaciones interactivas.
+2. **[Python](https://www.python.org/)** - 🐍 Versátil para backend, ciencia de datos, IA, scripting y más.
+3. **[TypeScript](https://www.typescriptlang.org/)** - 🦾 Extiende JavaScript con tipado estático.
+4. **[Java](https://www.oracle.com/java/)** - ☕ Usado ampliamente en aplicaciones empresariales y desarrollo Android.
+5. **[C++](https://isocpp.org/)** - 💻 Potente y rápido, utilizado en sistemas y videojuegos.
+6. **[PHP](https://www.php.net/)** - 🌐 Backend para aplicaciones web, especialmente con frameworks como Laravel.
+7. **[Ruby](https://www.ruby-lang.org/)** - 🔥 Ideal para desarrollo rápido de aplicaciones web.
+8. **[C#](https://learn.microsoft.com/en-us/dotnet/csharp/)** - ⚙️ Popular en el desarrollo de aplicaciones de escritorio y videojuegos.
+9. **[Go (Golang)](https://go.dev/)** - ⚡ Rendimiento, eficiencia y simplicidad para aplicaciones backend.
+10. **[Swift](https://developer.apple.com/swift/)** - 🍏 Lenguaje para aplicaciones iOS/macOS.
+11. **[Kotlin](https://kotlinlang.org/)** - 🌱 Moderno para desarrollo Android.
+12. **[Rust](https://www.rust-lang.org/)** - 🦀 Ofrece seguridad de memoria, ideal para sistemas y alto rendimiento.
+13. **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)** - 📄 Esencial para la estructura de páginas web.
+14. **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)** - 🎨 Usado para estilizar las páginas web.
+15. **[SQL](https://www.sql.org/)** - 🔍 Lenguaje para gestionar y consultar bases de datos.
+16. **[Shell Scripting (Bash)](https://www.gnu.org/software/bash/)** - 🖥️ Para automatización y administración de sistemas en entornos Unix.
+17. **[R](https://www.r-project.org/)** - 📊 Especializado en estadísticas y análisis de datos.
+18. **[Scala](https://scala-lang.org/)** - ⚙️ Programación funcional y orientada a objetos, usado en Big Data.
+19. **[Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)** - 🖥️ Históricamente usado en macOS y iOS.
+20. **[Lua](https://www.lua.org/)** - 🕹️ Lenguaje ligero para videojuegos y scripts embebidos.
 
 ---
 
