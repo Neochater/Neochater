@@ -209,73 +209,87 @@ Además del desarrollo web, tengo un fuerte interés en:
 
 ---
 
-## 🎨 Tier List de Herramientas y Tecnologías de Desarrollo Web
+## 🚀 Tier List de Herramientas y Tecnologías de Desarrollo Web
 
 ### 🖥️ Frontend
-1. <a href="https://reactjs.org/" target="_blank">**React**</a> - 🚀 Versátil y popular para aplicaciones interactivas.
-2. <a href="https://vuejs.org/" target="_blank">**Vue.js**</a> - 🌱 Progresivo y fácil de integrar.
-3. <a href="https://angular.io/" target="_blank">**Angular**</a> - 🛠️ Completo, ideal para aplicaciones empresariales.
-4. <a href="https://svelte.dev/" target="_blank">**Svelte**</a> - ⚡ Sin sobrecarga en el navegador, compila en tiempo de construcción.
-5. <a href="https://alpinejs.dev/" target="_blank">**Alpine.js**</a> - 🔗 Minimalista, ideal para funcionalidades interactivas ligeras.
-6. <a href="https://getbootstrap.com/" target="_blank">**Bootstrap**</a> - 🎨 Popular para diseño responsivo rápido.
+| Herramienta | Descripción |
+|-------------|-------------|
+| <a href="https://reactjs.org/" target="_blank">React</a> | 🚀 Versátil y popular para aplicaciones interactivas. |
+| <a href="https://vuejs.org/" target="_blank">Vue.js</a> | 🌱 Progresivo y fácil de integrar. |
+| <a href="https://angular.io/" target="_blank">Angular</a> | 🛠️ Completo, ideal para aplicaciones empresariales. |
+| <a href="https://svelte.dev/" target="_blank">Svelte</a> | ⚡ Sin sobrecarga en el navegador, compila en tiempo de construcción. |
+| <a href="https://alpinejs.dev/" target="_blank">Alpine.js</a> | 🔗 Minimalista, ideal para funcionalidades interactivas ligeras. |
+| <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a> | 🎨 Popular para diseño responsivo rápido. |
 
 ### 🔧 Backend
-1. <a href="https://expressjs.com/" target="_blank">**Express.js**</a> - 🟢 Minimalista y rápido para APIs y aplicaciones en Node.js.
-2. <a href="https://www.djangoproject.com/" target="_blank">**Django**</a> - 🦾 Rápido y seguro, con muchas herramientas integradas.
-3. <a href="https://flask.palletsprojects.com/" target="_blank">**Flask**</a> - 🌶️ Ligero y flexible, ideal para proyectos pequeños en Python.
-4. <a href="https://rubyonrails.org/" target="_blank">**Ruby on Rails**</a> - 🚄 Rápido para prototipos, con herramientas integradas.
-5. <a href="https://spring.io/projects/spring-boot" target="_blank">**Spring Boot**</a> - 💼 Robusto y popular en aplicaciones Java empresariales.
-6. <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank">**ASP.NET**</a> - 💻 Confiable y completo para aplicaciones en .NET.
+| Herramienta | Descripción |
+|-------------|-------------|
+| <a href="https://expressjs.com/" target="_blank">Express.js</a> | 🟢 Minimalista y rápido para APIs y aplicaciones en Node.js. |
+| <a href="https://www.djangoproject.com/" target="_blank">Django</a> | 🦾 Rápido y seguro, con muchas herramientas integradas. |
+| <a href="https://flask.palletsprojects.com/" target="_blank">Flask</a> | 🌶️ Ligero y flexible, ideal para proyectos pequeños en Python. |
+| <a href="https://rubyonrails.org/" target="_blank">Ruby on Rails</a> | 🚄 Rápido para prototipos, con herramientas integradas. |
+| <a href="https://spring.io/projects/spring-boot" target="_blank">Spring Boot</a> | 💼 Robusto y popular en aplicaciones Java empresariales. |
+| <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank">ASP.NET</a> | 💻 Confiable y completo para aplicaciones en .NET. |
 
 ### 🖧 Bases de Datos
-1. <a href="https://www.mysql.com/" target="_blank">**MySQL**</a> - 💾 Popular, confiable y ampliamente utilizado.
-2. <a href="https://www.postgresql.org/" target="_blank">**PostgreSQL**</a> - 🐘 Robusto y soporta funcionalidades avanzadas.
-3. <a href="https://www.mongodb.com/" target="_blank">**MongoDB**</a> - 📄 NoSQL flexible y escalable.
-4. <a href="https://sqlite.org/index.html" target="_blank">**SQLite**</a> - 📱 Ideal para prototipos y desarrollo ligero.
-5. <a href="https://redis.io/" target="_blank">**Redis**</a> - ⚡ Caché y almacenamiento de datos en memoria.
-6. <a href="https://cassandra.apache.org/" target="_blank">**Cassandra**</a> - 📊 NoSQL distribuido, ideal para grandes volúmenes de datos.
+| Herramienta | Descripción |
+|-------------|-------------|
+| <a href="https://www.mysql.com/" target="_blank">MySQL</a> | 💾 Popular, confiable y ampliamente utilizado. |
+| <a href="https://www.postgresql.org/" target="_blank">PostgreSQL</a> | 🐘 Robusto y soporta funcionalidades avanzadas. |
+| <a href="https://www.mongodb.com/" target="_blank">MongoDB</a> | 📄 NoSQL flexible y escalable. |
+| <a href="https://sqlite.org/" target="_blank">SQLite</a> | 📱 Ideal para prototipos y desarrollo ligero. |
+| <a href="https://redis.io/" target="_blank">Redis</a> | ⚡ Caché y almacenamiento de datos en memoria. |
+| <a href="https://cassandra.apache.org/" target="_blank">Cassandra</a> | 📊 NoSQL distribuido, ideal para grandes volúmenes de datos. |
 
 ### 🚀 DevOps y CI/CD
-1. <a href="https://www.docker.com/" target="_blank">**Docker**</a> - 🐋 Contenedores para desarrollo y despliegue consistentes.
-2. <a href="https://kubernetes.io/" target="_blank">**Kubernetes**</a> - 🚢 Orquestación de contenedores para aplicaciones escalables.
-3. <a href="https://www.jenkins.io/" target="_blank">**Jenkins**</a> - 🤖 Automatización CI/CD versátil y potente.
-4. <a href="https://github.com/features/actions" target="_blank">**GitHub Actions**</a> - 🔄 Integración y despliegue continuo dentro de GitHub.
-5. <a href="https://circleci.com/" target="_blank">**CircleCI**</a> - 🔁 CI/CD con opciones avanzadas de integración.
-6. <a href="https://www.ansible.com/" target="_blank">**Ansible**</a> - ⚙️ Automatización de configuración e infraestructura.
-
----
+| Herramienta | Descripción |
+|-------------|-------------|
+| <a href="https://www.docker.com/" target="_blank">Docker</a> | 🐋 Contenedores para desarrollo y despliegue consistentes. |
+| <a href="https://kubernetes.io/" target="_blank">Kubernetes</a> | 🚢 Orquestación de contenedores para aplicaciones escalables. |
+| <a href="https://www.jenkins.io/" target="_blank">Jenkins</a> | 🤖 Automatización CI/CD versátil y potente. |
+| <a href="https://github.com/features/actions" target="_blank">GitHub Actions</a> | 🔄 Integración y despliegue continuo dentro de GitHub. |
+| <a href="https://circleci.com/" target="_blank">CircleCI</a> | 🔁 CI/CD con opciones avanzadas de integración. |
+| <a href="https://www.ansible.com/" target="_blank">Ansible</a> | ⚙️ Automatización de configuración e infraestructura. |
 
 ### 🧪 Pruebas Automatizadas
-1. **Jest** - 🧩 Ideal para pruebas en JavaScript y React.
-2. **Mocha** - ☕ Flexible y popular en el ecosistema Node.js.
-3. **Cypress** - 🔍 Pruebas end-to-end intuitivas para aplicaciones web.
-4. **Selenium** - 🌐 Pruebas de interfaz de usuario en múltiples navegadores.
-5. **JUnit** - 📘 Clásico en Java para pruebas unitarias.
-6. **PyTest** - 🐍 Potente y fácil de usar para Python.
+| Herramienta | Descripción |
+|-------------|-------------|
+| <a href="https://jestjs.io/" target="_blank">Jest</a> | 🧩 Ideal para pruebas en JavaScript y React. |
+| <a href="https://mochajs.org/" target="_blank">Mocha</a> | ☕ Flexible y popular en el ecosistema Node.js. |
+| <a href="https://www.cypress.io/" target="_blank">Cypress</a> | 🔍 Pruebas end-to-end intuitivas para aplicaciones web. |
+| <a href="https://www.selenium.dev/" target="_blank">Selenium</a> | 🌐 Pruebas de interfaz de usuario en múltiples navegadores. |
+| <a href="https://junit.org/junit5/" target="_blank">JUnit</a> | 📘 Clásico en Java para pruebas unitarias. |
+| <a href="https://pytest.org/" target="_blank">PyTest</a> | 🐍 Potente y fácil de usar para Python. |
 
 ### 📜 Control de Versiones
-1. **Git** - 📂 Imprescindible para gestión de versiones.
-2. **GitHub** - 🌐 Plataforma de colaboración y control de versiones.
-3. **GitLab** - 🔐 Herramientas avanzadas de CI/CD integradas.
-4. **Bitbucket** - 🛠️ Integración con Jira y herramientas de Atlassian.
-5. **Mercurial** - ⚖️ Alternativa a Git, conocido por su simplicidad.
-6. **Perforce** - 🏢 Utilizado en entornos empresariales y grandes equipos.
+| Herramienta | Descripción |
+|-------------|-------------|
+| <a href="https://git-scm.com/" target="_blank">Git</a> | 📂 Imprescindible para gestión de versiones. |
+| <a href="https://github.com/" target="_blank">GitHub</a> | 🌐 Plataforma de colaboración y control de versiones. |
+| <a href="https://about.gitlab.com/" target="_blank">GitLab</a> | 🔐 Herramientas avanzadas de CI/CD integradas. |
+| <a href="https://bitbucket.org/" target="_blank">Bitbucket</a> | 🛠️ Integración con Jira y herramientas de Atlassian. |
+| <a href="https://www.mercurial-scm.org/" target="_blank">Mercurial</a> | ⚖️ Alternativa a Git, conocido por su simplicidad. |
+| <a href="https://www.perforce.com/" target="_blank">Perforce</a> | 🏢 Utilizado en entornos empresariales y grandes equipos. |
 
 ### 💻 Entornos de Desarrollo (IDEs)
-1. **Visual Studio Code** - 🔵 Popular, extensible y con una gran comunidad.
-2. **WebStorm** - 🟠 IDE completo para desarrollo en JavaScript y TypeScript.
-3. **IntelliJ IDEA** - 🔥 Excelente para desarrollo en Java y otras tecnologías.
-4. **PyCharm** - 🐍 IDE optimizado para Python.
-5. **Eclipse** - ☕ IDE para proyectos Java, con herramientas avanzadas.
-6. **Atom** - ⚛️ Editor ligero y personalizable.
+| Herramienta | Descripción |
+|-------------|-------------|
+| <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> | 🔵 Popular, extensible y con una gran comunidad. |
+| <a href="https://www.jetbrains.com/webstorm/" target="_blank">WebStorm</a> | 🟠 IDE completo para desarrollo en JavaScript y TypeScript. |
+| <a href="https://www.jetbrains.com/idea/" target="_blank">IntelliJ IDEA</a> | 🔥 Excelente para desarrollo en Java y otras tecnologías. |
+| <a href="https://www.jetbrains.com/pycharm/" target="_blank">PyCharm</a> | 🐍 IDE optimizado para Python. |
+| <a href="https://www.eclipse.org/" target="_blank">Eclipse</a> | ☕ IDE para proyectos Java, con herramientas avanzadas. |
+| <a href="https://atom.io/" target="_blank">Atom</a> | ⚛️ Editor ligero y personalizable. |
 
 ### 📦 Otras Herramientas y Utilidades
-1. **Astro** - 🚀 Generador de sitios estáticos, ideal para rendimiento.
-2. **Webpack** - 📦 Empaquetado y optimización de módulos de JavaScript.
-3. **Gulp** - 🔄 Automatización de tareas de desarrollo.
-4. **Postman** - 📫 Pruebas y documentación de APIs.
-5. **Figma** - 🎨 Diseño colaborativo de interfaces.
-6. **Storybook** - 📚 Desarrollo y pruebas de componentes UI.
+| Herramienta | Descripción |
+|-------------|-------------|
+| <a href="https://astro.build/" target="_blank">Astro</a> | 🚀 Generador de sitios estáticos, ideal para rendimiento. |
+| <a href="https://webpack.js.org/" target="_blank">Webpack</a> | 📦 Empaquetado y optimización de módulos de JavaScript. |
+| <a href="https://gulpjs.com/" target="_blank">Gulp</a> | 🔄 Automatización de tareas de desarrollo. |
+| <a href="https://www.postman.com/" target="_blank">Postman</a> | 📫 Pruebas y documentación de APIs. |
+| <a href="https://www.figma.com/" target="_blank">Figma</a> | 🎨 Diseño colaborativo de interfaces. |
+| <a href="https://storybook.js.org/" target="_blank">Storybook</a> | 📚 Desarrollo y pruebas de componentes UI. |
 
 ### 🖥️ Sistemas Operativos
 1. **Linux (Ubuntu)** - 🐧 Popular entre desarrolladores y para servidores.
