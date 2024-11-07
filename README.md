@@ -292,13 +292,15 @@ Además del desarrollo web, tengo un fuerte interés en:
 | <a href="https://storybook.js.org/" target="_blank">Storybook</a> | 📚 Desarrollo y pruebas de componentes UI. |
 
 ### 🖥️ Sistemas Operativos
+| Sistema | Descripción |
+|---------|-------------|
+| <a href="https://ubuntu.com/" target="_blank">Linux (Ubuntu)</a> | 🐧 Popular entre desarrolladores y para servidores. |
+| <a href="https://www.microsoft.com/en-us/windows" target="_blank">Windows</a> | 🖥️ Amplio soporte de software y herramientas. |
+| <a href="https://www.apple.com/macos/" target="_blank">macOS</a> | 🍏 Utilizado en diseño y desarrollo, especialmente en entornos creativos. |
+| <a href="https://www.centos.org/" target="_blank">CentOS</a> | 🖧 Ideal para servidores y aplicaciones empresariales. |
+| <a href="https://www.debian.org/" target="_blank">Debian</a> | 🖧 Estable y confiable, común en servidores. |
+| <a href="https://getfedora.org/" target="_blank">Fedora</a> | 🔵 Innovador y utilizado en entornos de desarrollo. |
 
-1. **[Linux (Ubuntu)](https://ubuntu.com/)** - 🐧 Popular entre desarrolladores y para servidores.
-2. **[Windows](https://www.microsoft.com/windows/)** - 🖥️ Amplio soporte de software y herramientas.
-3. **[macOS](https://www.apple.com/macos/)** - 🍏 Utilizado en diseño y desarrollo, especialmente en entornos creativos.
-4. **[CentOS](https://www.centos.org/)** - 🖧 Ideal para servidores y aplicaciones empresariales.
-5. **[Debian](https://www.debian.org/)** - 🖧 Estable y confiable, común en servidores.
-6. **[Fedora](https://getfedora.org/)** - 🔵 Innovador y utilizado en entornos de desarrollo.
 
 
 ---
