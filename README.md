@@ -178,35 +178,95 @@ Además del desarrollo web, tengo un fuerte interés en:
 
 ---
 
-## 💻 Tier List de Tipos de Código
+<h2>💻 Tier List de Tipos de Código</h2>
+  <h3>📝 Lenguajes de Programación</h3>
 
-## 💻 Tier List de Tipos de Código
-
-### 📝 Lenguajes de Programación
-
-| Lenguaje de Programación | Descripción |
-|--------------------------|-------------|
-| [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | Dominante en desarrollo web y aplicaciones interactivas. |
-| [Python](https://www.python.org/) | Versátil para backend, ciencia de datos, IA, scripting y más. |
-| [TypeScript](https://www.typescriptlang.org/) | Extiende JavaScript con tipado estático. |
-| [Java](https://www.oracle.com/java/) | Usado ampliamente en aplicaciones empresariales y desarrollo Android. |
-| [C++](https://isocpp.org/) | Potente y rápido, utilizado en sistemas y videojuegos. |
-| [PHP](https://www.php.net/) | Backend para aplicaciones web, especialmente con frameworks como Laravel. |
-| [Ruby](https://www.ruby-lang.org/) | Ideal para desarrollo rápido de aplicaciones web. |
-| [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) | Popular en el desarrollo de aplicaciones de escritorio y videojuegos. |
-| [Go (Golang)](https://go.dev/) | Rendimiento, eficiencia y simplicidad para aplicaciones backend. |
-| [Swift](https://developer.apple.com/swift/) | Lenguaje para aplicaciones iOS/macOS. |
-| [Kotlin](https://kotlinlang.org/) | Moderno para desarrollo Android. |
-| [Rust](https://www.rust-lang.org/) | Ofrece seguridad de memoria, ideal para sistemas y alto rendimiento. |
-| [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | Esencial para la estructura de páginas web. |
-| [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) | Usado para estilizar las páginas web. |
-| [SQL](https://www.sql.org/) | Lenguaje para gestionar y consultar bases de datos. |
-| [Shell Scripting (Bash)](https://www.gnu.org/software/bash/) | Para automatización y administración de sistemas en entornos Unix. |
-| [R](https://www.r-project.org/) | Especializado en estadísticas y análisis de datos. |
-| [Scala](https://scala-lang.org/) | Programación funcional y orientada a objetos, usado en Big Data. |
-| [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) | Históricamente usado en macOS y iOS. |
-| [Lua](https://www.lua.org/) | Lenguaje ligero para videojuegos y scripts embebidos. |
-
+  <table>
+    <tr>
+      <th>Lenguaje de Programación</th>
+      <th>Descripción</th>
+    </tr>
+    <tr>
+      <td><a href="https://api.lenguajes.com/javascript" target="_blank">JavaScript</a></td>
+      <td>Dominante en desarrollo web y aplicaciones interactivas.</td>
+    </tr>
+    <tr>
+      <td><a href="https://api.lenguajes.com/python" target="_blank">Python</a></td>
+      <td>Versátil para backend, ciencia de datos, IA, scripting y más.</td>
+    </tr>
+    <tr>
+      <td><a href="https://api.lenguajes.com/typescript" target="_blank">TypeScript</a></td>
+      <td>Extiende JavaScript con tipado estático.</td>
+    </tr>
+    <tr>
+      <td><a href="https://api.lenguajes.com/java" target="_blank">Java</a></td>
+      <td>Usado ampliamente en aplicaciones empresariales y desarrollo Android.</td>
+    </tr>
+    <tr>
+      <td><a href="https://api.lenguajes.com/cplusplus" target="_blank">C++</a></td>
+      <td>Potente y rápido, utilizado en sistemas y videojuegos.</td>
+    </tr>
+    <tr>
+      <td><a href="https://api.lenguajes.com/php" target="_blank">PHP</a></td>
+      <td>Backend para aplicaciones web, especialmente con frameworks como Laravel.</td>
+    </tr>
+    <tr>
+      <td><a href="https://api.lenguajes.com/ruby" target="_blank">Ruby</a></td>
+      <td>Ideal para desarrollo rápido de aplicaciones web.</td>
+    </tr>
+    <tr>
+      <td><a href="https://api.lenguajes.com/csharp" target="_blank">C#</a></td>
+      <td>Popular en el desarrollo de aplicaciones de escritorio y videojuegos.</td>
+    </tr>
+    <tr>
+      <td><a href="https://api.lenguajes.com/go" target="_blank">Go (Golang)</a></td>
+      <td>Rendimiento, eficiencia y simplicidad para aplicaciones backend.</td>
+    </tr>
+    <tr>
+      <td><a href="https://api.lenguajes.com/swift" target="_blank">Swift</a></td>
+      <td>Lenguaje para aplicaciones iOS/macOS.</td>
+    </tr>
+    <tr>
+      <td><a href="https://api.lenguajes.com/kotlin" target="_blank">Kotlin</a></td>
+      <td>Moderno para desarrollo Android.</td>
+    </tr>
+    <tr>
+      <td><a href="https://api.lenguajes.com/rust" target="_blank">Rust</a></td>
+      <td>Ofrece seguridad de memoria, ideal para sistemas y alto rendimiento.</td>
+    </tr>
+    <tr>
+      <td><a href="https://api.lenguajes.com/html" target="_blank">HTML</a></td>
+      <td>Esencial para la estructura de páginas web.</td>
+    </tr>
+    <tr>
+      <td><a href="https://api.lenguajes.com/css" target="_blank">CSS</a></td>
+      <td>Usado para estilizar las páginas web.</td>
+    </tr>
+    <tr>
+      <td><a href="https://api.lenguajes.com/sql" target="_blank">SQL</a></td>
+      <td>Lenguaje para gestionar y consultar bases de datos.</td>
+    </tr>
+    <tr>
+      <td><a href="https://api.lenguajes.com/bash" target="_blank">Shell Scripting (Bash)</a></td>
+      <td>Para automatización y administración de sistemas en entornos Unix.</td>
+    </tr>
+    <tr>
+      <td><a href="https://api.lenguajes.com/r" target="_blank">R</a></td>
+      <td>Especializado en estadísticas y análisis de datos.</td>
+    </tr>
+    <tr>
+      <td><a href="https://api.lenguajes.com/scala" target="_blank">Scala</a></td>
+      <td>Programación funcional y orientada a objetos, usado en Big Data.</td>
+    </tr>
+    <tr>
+      <td><a href="https://api.lenguajes.com/objectivec" target="_blank">Objective-C</a></td>
+      <td>Históricamente usado en macOS y iOS.</td>
+    </tr>
+    <tr>
+      <td><a href="https://api.lenguajes.com/lua" target="_blank">Lua</a></td>
+      <td>Lenguaje ligero para videojuegos y scripts embebidos.</td>
+    </tr>
+  </table>
 
 ---
 
