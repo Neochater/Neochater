@@ -5,43 +5,44 @@
 > "La tecnología no se trata solo de crear soluciones, sino de mejorar la vida de las personas." 
 
 ---
-## 🛠 Tecnologías y Herramientas  
-**Lenguajes de Programación:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-F2E20B?style=flat&logo=python&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-E34F26.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-1572B6.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
-**Desarrollo Front-End:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-ED8519?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-1572B6.svg?style=flat&logo=tailwindCSS&logoColor=white)
+## 🛠 Tecnologías y Herramientas
 
-**Desarrollo Back-End y Bases de Datos:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-DF0202.svg?style=flat&logo=postgres&logoColor=white)
+### Lenguajes de Programación:
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/-Python-F2E20B?style=flat&logo=python&logoColor=black)](https://www.python.org/)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
+[![C++](https://img.shields.io/badge/-C++-E34F26.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![C#](https://img.shields.io/badge/-C%23-1572B6.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
-**Herramientas de Desarrollo y CI/CD:**  
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=postgres&logoColor=white)
+### Desarrollo Front-End:
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![HTML5](https://img.shields.io/badge/-HTML5-ED8519?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-1572B6.svg?style=flat&logo=tailwindCSS&logoColor=white)](https://tailwindcss.com/)
 
+### Desarrollo Back-End y Bases de Datos:
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Postgres](https://img.shields.io/badge/PostgreSQL-DF0202.svg?style=flat&logo=postgres&logoColor=white)](https://www.postgresql.org/)
 
-**Inteligencia Artificial:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%8FCE00.svg?style=flat&logo=jenkins&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=jenkins&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=jenkins&logoColor=white)
+### Herramientas de Desarrollo y CI/CD:
+[![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=jenkins&logoColor=white)](https://www.terraform.io/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=postgres&logoColor=white)](https://kubernetes.io/)
+
+### Inteligencia Artificial:
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%8FCE00.svg?style=flat&logo=jenkins&logoColor=white)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=jenkins&logoColor=white)](https://keras.io/)
+[![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=jenkins&logoColor=white)](https://scikit-learn.org/)
 
 ---
 
