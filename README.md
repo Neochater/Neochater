@@ -5,11 +5,13 @@
 > "La tecnología no se trata solo de crear soluciones, sino de mejorar la vida de las personas." 
 
 ---
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-## 🛠 Tecnologías y Herramientas
 
+
+---
+## 🛠 Tecnologías y Herramientas  
 **Lenguajes de Programación:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
