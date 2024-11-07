@@ -309,46 +309,55 @@ Espero que encuentres esta lista útil. ¡Siempre estoy explorando y aprendiendo
 
 ---
 
-## 🚀 Tier List de Frameworks de Desarrollo Web
-
 ### 🖥️ Frontend Frameworks
-1. **React** - 🌟 Popular y extensible, ideal para aplicaciones SPA.
-2. **Vue.js** - 🔥 Versátil, fácil de aprender y con una gran comunidad.
-3. **Angular** - 💼 Completo, ideal para aplicaciones empresariales complejas.
-4. **Svelte** - ⚡ Rápido y eficiente, compila en tiempo de construcción.
-5. **Preact** - 🪶 Alternativa ligera a React, excelente rendimiento.
-6. **Alpine.js** - 🧩 Minimalista y directo, ideal para añadir interactividad a HTML.
+| Framework | Descripción |
+|-----------|-------------|
+| <a href="https://reactjs.org/" target="_blank">React</a> | 🌟 Popular y extensible, ideal para aplicaciones SPA. |
+| <a href="https://vuejs.org/" target="_blank">Vue.js</a> | 🔥 Versátil, fácil de aprender y con una gran comunidad. |
+| <a href="https://angular.io/" target="_blank">Angular</a> | 💼 Completo, ideal para aplicaciones empresariales complejas. |
+| <a href="https://svelte.dev/" target="_blank">Svelte</a> | ⚡ Rápido y eficiente, compila en tiempo de construcción. |
+| <a href="https://preactjs.com/" target="_blank">Preact</a> | 🪶 Alternativa ligera a React, excelente rendimiento. |
+| <a href="https://alpinejs.dev/" target="_blank">Alpine.js</a> | 🧩 Minimalista y directo, ideal para añadir interactividad a HTML. |
 
 ### 🔧 Backend Frameworks
-1. **Node.js (Express)** - 🚀 Rápido y minimalista, excelente para APIs.
-2. **Django** - 🔐 Seguro y completo, excelente para proyectos rápidos en Python.
-3. **Flask** - 🔥 Ligero y flexible, perfecto para proyectos pequeños en Python.
-4. **Ruby on Rails** - 🚄 Framework robusto y rápido para prototipos.
-5. **Spring Boot** - 💼 Popular en el desarrollo de aplicaciones empresariales en Java.
-6. **NestJS** - 🚀 Estructurado y modular, ideal para aplicaciones escalables en Node.js.
+| Framework | Descripción |
+|-----------|-------------|
+| <a href="https://expressjs.com/" target="_blank">Node.js (Express)</a> | 🚀 Rápido y minimalista, excelente para APIs. |
+| <a href="https://www.djangoproject.com/" target="_blank">Django</a> | 🔐 Seguro y completo, excelente para proyectos rápidos en Python. |
+| <a href="https://flask.palletsprojects.com/" target="_blank">Flask</a> | 🔥 Ligero y flexible, perfecto para proyectos pequeños en Python. |
+| <a href="https://rubyonrails.org/" target="_blank">Ruby on Rails</a> | 🚄 Framework robusto y rápido para prototipos. |
+| <a href="https://spring.io/projects/spring-boot" target="_blank">Spring Boot</a> | 💼 Popular en el desarrollo de aplicaciones empresariales en Java. |
+| <a href="https://nestjs.com/" target="_blank">NestJS</a> | 🚀 Estructurado y modular, ideal para aplicaciones escalables en Node.js. |
 
 ### 🌐 Full-Stack Frameworks
-1. **Next.js** - 🚀 Basado en React, excelente para aplicaciones y sitios estáticos.
-2. **Nuxt.js** - 🔥 Framework de Vue para aplicaciones universales.
-3. **Meteor** - 🪐 Full-stack en JavaScript, perfecto para prototipos rápidos.
-4. **Remix** - 🛠️ Optimizado para rendimiento y experiencias de usuario.
-5. **Blitz.js** - 💥 Basado en Next.js, ideal para aplicaciones monolíticas.
-6. **ASP.NET** - 💼 Conjunto completo para aplicaciones empresariales con .NET.
+| Framework | Descripción |
+|-----------|-------------|
+| <a href="https://nextjs.org/" target="_blank">Next.js</a> | 🚀 Basado en React, excelente para aplicaciones y sitios estáticos. |
+| <a href="https://nuxtjs.org/" target="_blank">Nuxt.js</a> | 🔥 Framework de Vue para aplicaciones universales. |
+| <a href="https://www.meteor.com/" target="_blank">Meteor</a> | 🪐 Full-stack en JavaScript, perfecto para prototipos rápidos. |
+| <a href="https://remix.run/" target="_blank">Remix</a> | 🛠️ Optimizado para rendimiento y experiencias de usuario. |
+| <a href="https://blitzjs.com/" target="_blank">Blitz.js</a> | 💥 Basado en Next.js, ideal para aplicaciones monolíticas. |
+| <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">ASP.NET</a> | 💼 Conjunto completo para aplicaciones empresariales con .NET. |
 
 ### 🛠️ Otros Herramientas y Frameworks Útiles
-1. **Astro** - ✨ Optimizador de contenido estático con arquitectura “Islas”.
-2. **Gatsby** - 🚀 Framework basado en React para sitios estáticos.
-3. **Strapi** - 🎛️ Headless CMS, perfecto para APIs rápidas y escalables.
-4. **Contentful** - 📜 CMS headless, fácil de integrar en cualquier frontend.
-5. **WordPress (con Headless)** - 📰 Integrado con frontend moderno como React o Vue.
-6. **Laravel** - ⚙️ PHP framework flexible, ideal para aplicaciones CRUD.
+| Herramienta | Descripción |
+|-------------|-------------|
+| <a href="https://astro.build/" target="_blank">Astro</a> | ✨ Optimizador de contenido estático con arquitectura “Islas”. |
+| <a href="https://www.gatsbyjs.com/" target="_blank">Gatsby</a> | 🚀 Framework basado en React para sitios estáticos. |
+| <a href="https://strapi.io/" target="_blank">Strapi</a> | 🎛️ Headless CMS, perfecto para APIs rápidas y escalables. |
+| <a href="https://www.contentful.com/" target="_blank">Contentful</a> | 📜 CMS headless, fácil de integrar en cualquier frontend. |
+| <a href="https://wordpress.org/" target="_blank">WordPress (con Headless)</a> | 📰 Integrado con frontend moderno como React o Vue. |
+| <a href="https://laravel.com/" target="_blank">Laravel</a> | ⚙️ PHP framework flexible, ideal para aplicaciones CRUD. |
 
 ### 🛠️ Otras Herramientas y Tecnologías para DevOps y CI/CD
-1. **Docker** - 🐋 Contenedores para despliegues consistentes.
-2. **Kubernetes** - 🚢 Orquestación de contenedores para aplicaciones escalables.
-3. **Jenkins** - 🚀 CI/CD pipeline para automatización de despliegues.
-4. **GitHub Actions** - 💥 Integración CI/CD directamente en GitHub.
-5. **CircleCI** - 🔄 Plataforma CI/CD flexible para despliegues.
+| Herramienta | Descripción |
+|-------------|-------------|
+| <a href="https://www.docker.com/" target="_blank">Docker</a> | 🐋 Contenedores para despliegues consistentes. |
+| <a href="https://kubernetes.io/" target="_blank">Kubernetes</a> | 🚢 Orquestación de contenedores para aplicaciones escalables. |
+| <a href="https://www.jenkins.io/" target="_blank">Jenkins</a> | 🚀 CI/CD pipeline para automatización de despliegues. |
+| <a href="https://github.com/actions" target="_blank">GitHub Actions</a> | 💥 Integración CI/CD directamente en GitHub. |
+| <a href="https://circleci.com/" target="_blank">CircleCI</a> | 🔄 Plataforma CI/CD flexible para despliegues. |
+
 
 ---
 
