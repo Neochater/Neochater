@@ -533,11 +533,11 @@ Espero que encuentres esta lista útil. ¡Siempre estoy explorando y aprendiendo
 
 Para apoyar el proyecto directamente, siéntete libre de abrir propuestas para sugerencias de íconos, ¡o contribuye con una pull request!
 
+---
 
 ##  <h2>📫 Contacta conmigo</h2>  
 
 <div align="center">
-
   <p>
     <a href="https://www.linkedin.com/in/tu-usuario/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -550,7 +550,6 @@ Para apoyar el proyecto directamente, siéntete libre de abrir propuestas para s
     </a>
   </p>
   <h3>¡Gracias por visitar mi perfil! 🚀</h3>
-  
 </div>
 
 ---
