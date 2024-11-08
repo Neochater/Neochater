@@ -416,7 +416,10 @@ Espero que encuentres esta lista útil. ¡Siempre estoy explorando y aprendiendo
 | <a href="https://www.docker.com/" target="_blank">Docker</a> | 🐋 Contenedores para despliegues consistentes. |
 | <a href="https://kubernetes.io/" target="_blank">Kubernetes</a> | 🚢 Orquestación de contenedores para aplicaciones escalables. |
 | <a href="https://www.jenkins.io/" target="_blank">Jenkins</a> | 🚀 CI/CD pipeline para automatización de despliegues. |
-| <a href="https://github.com/actions" target="_blank" role="button">GitHub Actions</a> | 💥 Integración CI/CD directamente en GitHub. |
+| <a href="https://github.com/actions" target="_blank">
+  <img height="36" style="border:0px;height:36px;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Actions" />
+</a>
+ | 💥 Integración CI/CD directamente en GitHub. |
 
 
 
@@ -482,7 +485,7 @@ Espero que encuentres esta lista útil. ¡Siempre estoy explorando y aprendiendo
 
 ¡Muchas gracias por usar mis proyectos! Si quieres ir un paso más allá y apoyar mi trabajo de código abierto, invítame un café:
 
-<img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
 
 Para apoyar el proyecto directamente, siéntete libre de abrir propuestas para sugerencias de íconos, ¡o contribuye con una pull request!
