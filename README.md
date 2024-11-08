@@ -1,20 +1,47 @@
-<div style="display: flex; align-items: center; justify-content: space-between; background-color: #24292f; padding: 10px 20px; color: white; border-radius: 8px;">
+<div align="center">
+  <img src="https://i.imgur.com/MN6nOvh.png" alt="Developer Banner" width="100%">
 
-  <div style="display: flex; align-items: center;">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" style="height: 40px; margin-right: 10px;">
-    <span style="font-size: 1.5em; font-weight: bold;">GitHub</span>
-  </div>
+  <h1>¡Hola! 👋 Soy [Tu Nombre]</h1>
+  <p><strong>Desarrollador Técnico</strong> | <strong>Especialista en Programación</strong> | <strong>Apasionado de la Tecnología 🚀</strong></p>
 
-  <div style="display: flex; gap: 15px;">
-    <a href="https://github.com/features" target="_blank" style="color: white; text-decoration: none; font-size: 1em;">Características</a>
-    <a href="https://github.com/explore" target="_blank" style="color: white; text-decoration: none; font-size: 1em;">Explorar</a>
-    <a href="https://github.com/marketplace" target="_blank" style="color: white; text-decoration: none; font-size: 1em;">Marketplace</a>
-    <a href="https://github.com/pricing" target="_blank" style="color: white; text-decoration: none; font-size: 1em;">Precios</a>
-  </div>
+  <p>
+    <em>Con años de experiencia en programación, resolución de problemas técnicos y optimización de sistemas, estoy aquí para llevar cualquier proyecto al siguiente nivel.</em>
+  </p>
 
-  <a href="https://github.com/login" target="_blank" style="padding: 8px 15px; background-color: #2ea043; border: none; border-radius: 5px; color: white; font-weight: bold; text-decoration: none;">Iniciar sesión</a>
+  <h2>💻 Tecnologías y Habilidades</h2>
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </p>
 
+  <h2>📈 Estadísticas de GitHub</h2>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu_usuario&theme=radical" alt="GitHub Streak" width="48%" />
+  </p>
+
+  <h2>📫 Conéctate conmigo</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/tu-usuario/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/tu_usuario" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="mailto:tu_email@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+
+  <h3>¡Gracias por visitar mi perfil! 🚀</h3>
 </div>
+
+---
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi 
 👋 ¡Hola! Soy Enrique José López Prim
