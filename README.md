@@ -533,7 +533,6 @@ Espero que encuentres esta lista útil. ¡Siempre estoy explorando y aprendiendo
 
 Para apoyar el proyecto directamente, siéntete libre de abrir propuestas para sugerencias de íconos, ¡o contribuye con una pull request!
 
----
 
 ##  <h2>📫 Contacta conmigo</h2>  
 
