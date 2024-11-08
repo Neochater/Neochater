@@ -416,7 +416,7 @@ Espero que encuentres esta lista útil. ¡Siempre estoy explorando y aprendiendo
 | <a href="https://www.docker.com/" target="_blank">Docker</a> | 🐋 Contenedores para despliegues consistentes. |
 | <a href="https://kubernetes.io/" target="_blank">Kubernetes</a> | 🚢 Orquestación de contenedores para aplicaciones escalables. |
 | <a href="https://www.jenkins.io/" target="_blank">Jenkins</a> | 🚀 CI/CD pipeline para automatización de despliegues. |
-| <a href="https://github.com/actions" target="_blank">GitHub Actions</a> | 💥 Integración CI/CD directamente en GitHub. |
+| <a href="https://github.com/actions" target="_blank" role="button">GitHub Actions</a> | 💥 Integración CI/CD directamente en GitHub. |
 
 
 
