@@ -4,30 +4,6 @@
 
 > "La tecnología no se trata solo de crear soluciones, sino de mejorar la vida de las personas." 
 
-
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Botón Abrir Nueva Pestaña</title>
-</head>
-<body>
-
-  <!-- Botón que abre en una nueva pestaña -->
-  <button onclick="abrirEnNuevaPestana()">Ir a GitHub</button>
-
-  <script>
-    function abrirEnNuevaPestana() {
-      // Abre una nueva pestaña al hacer clic en el botón
-      let nuevaVentana = window.open('about:blank', '_blank');
-      nuevaVentana.location = 'https://github.com';
-    }
-  </script>
-
-</body>
-</html>
-
-
 ---
 
 ## 🛠 Tecnologías y Herramientas
