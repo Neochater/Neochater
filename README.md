@@ -4,7 +4,7 @@
 
 > "La tecnología no se trata solo de crear soluciones, sino de mejorar la vida de las personas." 
 
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
   <meta charset="UTF-8">
