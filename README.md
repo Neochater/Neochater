@@ -1,111 +1,21 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Header para GitHub</title>
-  <style>
-    /* Estilos del Header */
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-    }
-    header {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      background-color: #24292f;
-      padding: 10px 20px;
-      color: white;
-    }
-    .logo {
-      display: flex;
-      align-items: center;
-    }
-    .logo img {
-      height: 40px;
-      margin-right: 10px;
-    }
-    .logo span {
-      font-size: 1.5em;
-      font-weight: bold;
-    }
-    nav {
-      display: flex;
-      gap: 15px;
-    }
-    nav a {
-      color: white;
-      text-decoration: none;
-      font-size: 1em;
-      transition: color 0.3s;
-    }
-    nav a:hover {
-      color: #58a6ff;
-    }
-    .button {
-      padding: 8px 15px;
-      background-color: #2ea043;
-      border: none;
-      border-radius: 5px;
-      color: white;
-      font-weight: bold;
-      cursor: pointer;
-      transition: background-color 0.3s;
-    }
-    .button:hover {
-      background-color: #3fb950;
-    }
+<div style="display: flex; align-items: center; justify-content: space-between; background-color: #24292f; padding: 10px 20px; color: white; border-radius: 8px;">
 
-    /* Estilos para dispositivos móviles */
-    @media (max-width: 600px) {
-      header {
-        flex-direction: column;
-        align-items: flex-start;
-      }
-      nav {
-        flex-direction: column;
-        gap: 10px;
-      }
-    }
-  </style>
-</head>
-<body>
-
-<header>
-  <div class="logo">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo">
-    <span>GitHub</span>
+  <div style="display: flex; align-items: center;">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" style="height: 40px; margin-right: 10px;">
+    <span style="font-size: 1.5em; font-weight: bold;">GitHub</span>
   </div>
-  <nav>
-    <a href="https://github.com/features" target="_blank">Características</a>
-    <a href="https://github.com/explore" target="_blank">Explorar</a>
-    <a href="https://github.com/marketplace" target="_blank">Marketplace</a>
-    <a href="https://github.com/pricing" target="_blank">Precios</a>
-  </nav>
-  <button class="button" onclick="window.open('https://github.com/login', '_blank')">Iniciar sesión</button>
-</header>
 
-</body>
-</html>
-
-
-<header>
-  <div class="logo">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo">
-    <span>GitHub</span>
+  <div style="display: flex; gap: 15px;">
+    <a href="https://github.com/features" target="_blank" style="color: white; text-decoration: none; font-size: 1em;">Características</a>
+    <a href="https://github.com/explore" target="_blank" style="color: white; text-decoration: none; font-size: 1em;">Explorar</a>
+    <a href="https://github.com/marketplace" target="_blank" style="color: white; text-decoration: none; font-size: 1em;">Marketplace</a>
+    <a href="https://github.com/pricing" target="_blank" style="color: white; text-decoration: none; font-size: 1em;">Precios</a>
   </div>
-  <nav>
-    <a href="https://github.com/features" target="_blank">Características</a>
-    <a href="https://github.com/explore" target="_blank">Explorar</a>
-    <a href="https://github.com/marketplace" target="_blank">Marketplace</a>
-    <a href="https://github.com/pricing" target="_blank">Precios</a>
-  </nav>
-  <button class="button" onclick="window.open('https://github.com/login', '_blank')">Iniciar sesión</button>
-</header>
 
-</body>
-</html>
+  <a href="https://github.com/login" target="_blank" style="padding: 8px 15px; background-color: #2ea043; border: none; border-radius: 5px; color: white; font-weight: bold; text-decoration: none;">Iniciar sesión</a>
+
+</div>
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi 
 👋 ¡Hola! Soy Enrique José López Prim
 ¡Bienvenido a mi espacio en GitHub! Soy un desarrollador web y entusiasta de la tecnología de Valencia, España, con más de 15 años de experiencia en desarrollo full-stack, automatización de procesos y optimización de sistemas web. Me especializo en crear aplicaciones eficientes, seguras y altamente escalables. Mi enfoque siempre está en ofrecer un rendimiento óptimo y una experiencia de usuario intuitiva y atractiva.
