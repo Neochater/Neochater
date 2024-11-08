@@ -417,7 +417,7 @@ Espero que encuentres esta lista útil. ¡Siempre estoy explorando y aprendiendo
 | <a href="https://kubernetes.io/" target="_blank">Kubernetes</a> | 🚢 Orquestación de contenedores para aplicaciones escalables. |
 | <a href="https://www.jenkins.io/" target="_blank">Jenkins</a> | 🚀 CI/CD pipeline para automatización de despliegues. |
 | <a href="https://github.com/actions" target="_blank">GitHub Actions</a> | 💥 Integración CI/CD directamente en GitHub. |
-| <a src="https://circleci.com/">CircleCI</a> | 🔄 Plataforma CI/CD flexible para despliegues. |
+| <button onclick="window.open('https://github.com/actions', '_blank')">GitHub Actions</button> | 🔄 Plataforma CI/CD flexible para despliegues. |
 
 
 ---
