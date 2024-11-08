@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -69,6 +71,24 @@
   </style>
 </head>
 <body>
+
+<header>
+  <div class="logo">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo">
+    <span>GitHub</span>
+  </div>
+  <nav>
+    <a href="https://github.com/features" target="_blank">Características</a>
+    <a href="https://github.com/explore" target="_blank">Explorar</a>
+    <a href="https://github.com/marketplace" target="_blank">Marketplace</a>
+    <a href="https://github.com/pricing" target="_blank">Precios</a>
+  </nav>
+  <button class="button" onclick="window.open('https://github.com/login', '_blank')">Iniciar sesión</button>
+</header>
+
+</body>
+</html>
+
 
 <header>
   <div class="logo">
