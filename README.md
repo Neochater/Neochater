@@ -1,3 +1,20 @@
+| Proyecto: Sistema de Gestión de Inventarios |
+|--------------------------------------------|
+| **Descripción:** Aplicación web para monitorear y gestionar inventarios en tiempo real. |
+| **Tecnologías:** JavaScript, Node.js, MongoDB, React |
+| ![Imagen del Proyecto](https://ruta_de_imagen.com/imagen.png) |
+| [Ver en GitHub](https://github.com/usuario/proyecto) | [Ver Demo](https://demo.com) |
+| **Características Clave:** |
+| - Seguimiento de inventario en tiempo real |
+| - Notificaciones automáticas de stock bajo |
+| - Reportes personalizados |
+| **Estado:** Versión 1.0 - Completo |
+
+
+
+
+
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi 
 👋 ¡Hola! Soy Enrique José López Prim
 ¡Bienvenido a mi espacio en GitHub! Soy un desarrollador web y entusiasta de la tecnología de Valencia, España, con más de 15 años de experiencia en desarrollo full-stack, automatización de procesos y optimización de sistemas web. Me especializo en crear aplicaciones eficientes, seguras y altamente escalables. Mi enfoque siempre está en ofrecer un rendimiento óptimo y una experiencia de usuario intuitiva y atractiva.
