@@ -535,10 +535,6 @@ Para apoyar el proyecto directamente, siéntete libre de abrir propuestas para s
 
 ---
 
-Gracias por visitar mi perfil. ¡Vamos a crear algo increíble juntos!
-
----
-
 ##  <h2>📫 Contacta conmigo</h2>
   <p>
     <a href="https://www.linkedin.com/in/tu-usuario/" target="_blank">
@@ -551,4 +547,6 @@ Gracias por visitar mi perfil. ¡Vamos a crear algo increíble juntos!
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
+  <h3>¡Gracias por visitar mi perfil! 🚀</h3>
 
+---
