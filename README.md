@@ -418,10 +418,7 @@ Espero que encuentres esta lista útil. ¡Siempre estoy explorando y aprendiendo
 | <a href="https://www.jenkins.io/" target="_blank">Jenkins</a> | 🚀 CI/CD pipeline para automatización de despliegues. |
 | <a href="https://github.com/actions" target="_blank">
   <img height="36" style="border:0px;height:36px;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Actions" />
-</a>
- | 💥 Integración CI/CD directamente en GitHub. |
-
-
+</a> | 💥 Integración CI/CD directamente en GitHub. |
 
 ---
 
