@@ -539,11 +539,16 @@ Gracias por visitar mi perfil. ¡Vamos a crear algo increíble juntos!
 
 ---
 
-## 📫 Contáctame
-
-¿Tienes un proyecto interesante? ¿Quieres colaborar en desarrollo open source o simplemente decir hola? ¡No dudes en contactarme!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/enriqueprim)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/enriqueprim)
-[![Correo Electrónico](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:enrique.prim@example.com)
+##  <h2>📫 Contacta conmigo</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/tu-usuario/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/tu_usuario" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="mailto:tu_email@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 
