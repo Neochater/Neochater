@@ -4,6 +4,8 @@
 
 > "La tecnología no se trata solo de crear soluciones, sino de mejorar la vida de las personas." 
 
+<button onclick="window.open('https://github.com', '_blank')">Ir a GitHub</button>
+
 ---
 
 ## 🛠 Tecnologías y Herramientas
