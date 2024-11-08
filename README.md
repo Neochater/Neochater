@@ -4,7 +4,36 @@
 
 > "La tecnología no se trata solo de crear soluciones, sino de mejorar la vida de las personas." 
 
-<button onclick="window.open('https://github.com', '_blank')">Ir a GitHub</button>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Botón Abrir Nueva Pestaña</title>
+  <style>
+    /* Estilos para el botón */
+    .boton {
+      padding: 10px 20px;
+      background-color: #2ea043;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      font-size: 16px;
+      cursor: pointer;
+      text-decoration: none; /* Elimina subrayado */
+      font-weight: bold;
+    }
+    .boton:hover {
+      background-color: #3fb950;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Botón para abrir en una nueva pestaña -->
+  <a href="https://github.com" target="_blank" class="boton">Ir a GitHub</a>
+
+</body>
+</html>
 
 ---
 
