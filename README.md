@@ -185,26 +185,26 @@ Además del desarrollo web, tengo un fuerte interés en:
 
 | Lenguaje de Programación | Descripción |
 | --- | --- |
-| ![JavaScript](https://cdn.simpleicons.org/javascript?width=6) [JavaScript](https://api.lenguajes.com/javascript) | Dominante en desarrollo web y aplicaciones interactivas. |
-| ![Python](https://cdn.simpleicons.org/python?width=6) [Python](https://api.lenguajes.com/python) | Versátil para backend, ciencia de datos, IA, scripting y más. |
-| ![TypeScript](https://cdn.simpleicons.org/typescript?width=6) [TypeScript](https://api.lenguajes.com/typescript) | Extiende JavaScript con tipado estático. |
-| ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg?width=6) [Java](https://api.lenguajes.com/java) | Usado ampliamente en aplicaciones empresariales y desarrollo Android. |
-| ![C++](https://cdn.simpleicons.org/cplusplus?width=6) [C++](https://api.lenguajes.com/cplusplus) | Potente y rápido, utilizado en sistemas y videojuegos. |
-| ![PHP](https://cdn.simpleicons.org/php?width=6) [PHP](https://api.lenguajes.com/php) | Backend para aplicaciones web, especialmente con frameworks como Laravel. |
-| ![Ruby](https://cdn.simpleicons.org/ruby?width=6) [Ruby](https://api.lenguajes.com/ruby) | Ideal para desarrollo rápido de aplicaciones web. |
-| ![C#](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png?width=6) [C#](https://api.lenguajes.com/csharp) | Popular en el desarrollo de aplicaciones de escritorio y videojuegos. |
-| ![Go](https://cdn.simpleicons.org/go?width=6) [Go (Golang)](https://api.lenguajes.com/go) | Rendimiento, eficiencia y simplicidad para aplicaciones backend. |
-| ![Swift](https://cdn.simpleicons.org/swift?width=6) [Swift](https://api.lenguajes.com/swift) | Lenguaje para aplicaciones iOS/macOS. |
-| ![Kotlin](https://cdn.simpleicons.org/kotlin?width=6) [Kotlin](https://api.lenguajes.com/kotlin) | Moderno para desarrollo Android. |
-| ![Rust](https://cdn.simpleicons.org/rust?width=6) [Rust](https://api.lenguajes.com/rust) | Ofrece seguridad de memoria, ideal para sistemas y alto rendimiento. |
-| ![HTML](https://cdn.simpleicons.org/html5?width=6) [HTML](https://api.lenguajes.com/html) | Esencial para la estructura de páginas web. |
-| ![CSS](https://cdn.simpleicons.org/css3?width=6) [CSS](https://api.lenguajes.com/css) | Usado para estilizar las páginas web. |
-| ![SQL](https://cdn.simpleicons.org/mysql?width=6) [SQL](https://api.lenguajes.com/sql) | Lenguaje para gestionar y consultar bases de datos. |
-| ![Bash](https://cdn.simpleicons.org/gnubash?width=6) [Shell Scripting (Bash)](https://api.lenguajes.com/bash) | Para automatización y administración de sistemas en entornos Unix. |
-| ![R](https://cdn.simpleicons.org/r?width=6) [R](https://api.lenguajes.com/r) | Especializado en estadísticas y análisis de datos. |
-| ![Scala](https://cdn.simpleicons.org/scala?width=6) [Scala](https://api.lenguajes.com/scala) | Programación funcional y orientada a objetos, usado en Big Data. |
-| ![Objective-C](https://cdn.simpleicons.org/apple?width=6) [Objective-C](https://api.lenguajes.com/objectivec) | Históricamente usado en macOS y iOS. |
-| ![Lua](https://cdn.simpleicons.org/lua?width=6) [Lua](https://api.lenguajes.com/lua) | Lenguaje ligero para videojuegos y scripts embebidos. |
+| ![JavaScript](https://cdn.simpleicons.org/javascript?width=40) [JavaScript](https://api.lenguajes.com/javascript) | Dominante en desarrollo web y aplicaciones interactivas. |
+| ![Python](https://cdn.simpleicons.org/python?width=40) [Python](https://api.lenguajes.com/python) | Versátil para backend, ciencia de datos, IA, scripting y más. |
+| ![TypeScript](https://cdn.simpleicons.org/typescript?width=40) [TypeScript](https://api.lenguajes.com/typescript) | Extiende JavaScript con tipado estático. |
+| ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg?width=40) [Java](https://api.lenguajes.com/java) | Usado ampliamente en aplicaciones empresariales y desarrollo Android. |
+| ![C++](https://cdn.simpleicons.org/cplusplus?width=40) [C++](https://api.lenguajes.com/cplusplus) | Potente y rápido, utilizado en sistemas y videojuegos. |
+| ![PHP](https://cdn.simpleicons.org/php?width=40) [PHP](https://api.lenguajes.com/php) | Backend para aplicaciones web, especialmente con frameworks como Laravel. |
+| ![Ruby](https://cdn.simpleicons.org/ruby?width=40) [Ruby](https://api.lenguajes.com/ruby) | Ideal para desarrollo rápido de aplicaciones web. |
+| ![C#](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png?width=40) [C#](https://api.lenguajes.com/csharp) | Popular en el desarrollo de aplicaciones de escritorio y videojuegos. |
+| ![Go](https://cdn.simpleicons.org/go?width=40) [Go (Golang)](https://api.lenguajes.com/go) | Rendimiento, eficiencia y simplicidad para aplicaciones backend. |
+| ![Swift](https://cdn.simpleicons.org/swift?width=40) [Swift](https://api.lenguajes.com/swift) | Lenguaje para aplicaciones iOS/macOS. |
+| ![Kotlin](https://cdn.simpleicons.org/kotlin?width=40) [Kotlin](https://api.lenguajes.com/kotlin) | Moderno para desarrollo Android. |
+| ![Rust](https://cdn.simpleicons.org/rust?width=40) [Rust](https://api.lenguajes.com/rust) | Ofrece seguridad de memoria, ideal para sistemas y alto rendimiento. |
+| ![HTML](https://cdn.simpleicons.org/html5?width=40) [HTML](https://api.lenguajes.com/html) | Esencial para la estructura de páginas web. |
+| ![CSS](https://cdn.simpleicons.org/css3?width=40) [CSS](https://api.lenguajes.com/css) | Usado para estilizar las páginas web. |
+| ![SQL](https://cdn.simpleicons.org/mysql?width=40) [SQL](https://api.lenguajes.com/sql) | Lenguaje para gestionar y consultar bases de datos. |
+| ![Bash](https://cdn.simpleicons.org/gnubash?width=40) [Shell Scripting (Bash)](https://api.lenguajes.com/bash) | Para automatización y administración de sistemas en entornos Unix. |
+| ![R](https://cdn.simpleicons.org/r?width=40) [R](https://api.lenguajes.com/r) | Especializado en estadísticas y análisis de datos. |
+| ![Scala](https://cdn.simpleicons.org/scala?width=40) [Scala](https://api.lenguajes.com/scala) | Programación funcional y orientada a objetos, usado en Big Data. |
+| ![Objective-C](https://cdn.simpleicons.org/apple?width=40) [Objective-C](https://api.lenguajes.com/objectivec) | Históricamente usado en macOS y iOS. |
+| ![Lua](https://cdn.simpleicons.org/lua?width=40) [Lua](https://api.lenguajes.com/lua) | Lenguaje ligero para videojuegos y scripts embebidos. |
 
 ---
 
