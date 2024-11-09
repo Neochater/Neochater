@@ -181,92 +181,30 @@ Además del desarrollo web, tengo un fuerte interés en:
 <h2>💻 Tier List de Tipos de Código</h2>
   <h3>📝 Lenguajes de Programación</h3>
 
-  <table>
-    <tr>
-      <th>Lenguaje de Programación</th>
-      <th>Descripción</th>
-    </tr>
-    <tr>
-      <td><a href="https://api.lenguajes.com/javascript" target="_blank">JavaScript</a></td>
-      <td>Dominante en desarrollo web y aplicaciones interactivas.</td>
-    </tr>
-    <tr>
-      <td><a href="https://api.lenguajes.com/python" target="_blank">Python</a></td>
-      <td>Versátil para backend, ciencia de datos, IA, scripting y más.</td>
-    </tr>
-    <tr>
-      <td><a href="https://api.lenguajes.com/typescript" target="_blank">TypeScript</a></td>
-      <td>Extiende JavaScript con tipado estático.</td>
-    </tr>
-    <tr>
-      <td><a href="https://api.lenguajes.com/java" target="_blank">Java</a></td>
-      <td>Usado ampliamente en aplicaciones empresariales y desarrollo Android.</td>
-    </tr>
-    <tr>
-      <td><a href="https://api.lenguajes.com/cplusplus" target="_blank">C++</a></td>
-      <td>Potente y rápido, utilizado en sistemas y videojuegos.</td>
-    </tr>
-    <tr>
-      <td><a href="https://api.lenguajes.com/php" target="_blank">PHP</a></td>
-      <td>Backend para aplicaciones web, especialmente con frameworks como Laravel.</td>
-    </tr>
-    <tr>
-      <td><a href="https://api.lenguajes.com/ruby" target="_blank">Ruby</a></td>
-      <td>Ideal para desarrollo rápido de aplicaciones web.</td>
-    </tr>
-    <tr>
-      <td><a href="https://api.lenguajes.com/csharp" target="_blank">C#</a></td>
-      <td>Popular en el desarrollo de aplicaciones de escritorio y videojuegos.</td>
-    </tr>
-    <tr>
-      <td><a href="https://api.lenguajes.com/go" target="_blank">Go (Golang)</a></td>
-      <td>Rendimiento, eficiencia y simplicidad para aplicaciones backend.</td>
-    </tr>
-    <tr>
-      <td><a href="https://api.lenguajes.com/swift" target="_blank">Swift</a></td>
-      <td>Lenguaje para aplicaciones iOS/macOS.</td>
-    </tr>
-    <tr>
-      <td><a href="https://api.lenguajes.com/kotlin" target="_blank">Kotlin</a></td>
-      <td>Moderno para desarrollo Android.</td>
-    </tr>
-    <tr>
-      <td><a href="https://api.lenguajes.com/rust" target="_blank">Rust</a></td>
-      <td>Ofrece seguridad de memoria, ideal para sistemas y alto rendimiento.</td>
-    </tr>
-    <tr>
-      <td><a href="https://api.lenguajes.com/html" target="_blank">HTML</a></td>
-      <td>Esencial para la estructura de páginas web.</td>
-    </tr>
-    <tr>
-      <td><a href="https://api.lenguajes.com/css" target="_blank">CSS</a></td>
-      <td>Usado para estilizar las páginas web.</td>
-    </tr>
-    <tr>
-      <td><a href="https://api.lenguajes.com/sql" target="_blank">SQL</a></td>
-      <td>Lenguaje para gestionar y consultar bases de datos.</td>
-    </tr>
-    <tr>
-      <td><a href="https://api.lenguajes.com/bash" target="_blank">Shell Scripting (Bash)</a></td>
-      <td>Para automatización y administración de sistemas en entornos Unix.</td>
-    </tr>
-    <tr>
-      <td><a href="https://api.lenguajes.com/r" target="_blank">R</a></td>
-      <td>Especializado en estadísticas y análisis de datos.</td>
-    </tr>
-    <tr>
-      <td><a href="https://api.lenguajes.com/scala" target="_blank">Scala</a></td>
-      <td>Programación funcional y orientada a objetos, usado en Big Data.</td>
-    </tr>
-    <tr>
-      <td><a href="https://api.lenguajes.com/objectivec" target="_blank">Objective-C</a></td>
-      <td>Históricamente usado en macOS y iOS.</td>
-    </tr>
-    <tr>
-      <td><a href="https://api.lenguajes.com/lua" target="_blank">Lua</a></td>
-      <td>Lenguaje ligero para videojuegos y scripts embebidos.</td>
-    </tr>
-  </table>
+# Lenguajes de Programación
+
+| ![Logo](https://via.placeholder.com/15) Lenguaje de Programación | Descripción |
+| --- | --- |
+| ![Logo](https://via.placeholder.com/15) [JavaScript](https://api.lenguajes.com/javascript) | Dominante en desarrollo web y aplicaciones interactivas. |
+| ![Logo](https://via.placeholder.com/15) [Python](https://api.lenguajes.com/python) | Versátil para backend, ciencia de datos, IA, scripting y más. |
+| ![Logo](https://via.placeholder.com/15) [TypeScript](https://api.lenguajes.com/typescript) | Extiende JavaScript con tipado estático. |
+| ![Logo](https://via.placeholder.com/15) [Java](https://api.lenguajes.com/java) | Usado ampliamente en aplicaciones empresariales y desarrollo Android. |
+| ![Logo](https://via.placeholder.com/15) [C++](https://api.lenguajes.com/cplusplus) | Potente y rápido, utilizado en sistemas y videojuegos. |
+| ![Logo](https://via.placeholder.com/15) [PHP](https://api.lenguajes.com/php) | Backend para aplicaciones web, especialmente con frameworks como Laravel. |
+| ![Logo](https://via.placeholder.com/15) [Ruby](https://api.lenguajes.com/ruby) | Ideal para desarrollo rápido de aplicaciones web. |
+| ![Logo](https://via.placeholder.com/15) [C#](https://api.lenguajes.com/csharp) | Popular en el desarrollo de aplicaciones de escritorio y videojuegos. |
+| ![Logo](https://via.placeholder.com/15) [Go (Golang)](https://api.lenguajes.com/go) | Rendimiento, eficiencia y simplicidad para aplicaciones backend. |
+| ![Logo](https://via.placeholder.com/15) [Swift](https://api.lenguajes.com/swift) | Lenguaje para aplicaciones iOS/macOS. |
+| ![Logo](https://via.placeholder.com/15) [Kotlin](https://api.lenguajes.com/kotlin) | Moderno para desarrollo Android. |
+| ![Logo](https://via.placeholder.com/15) [Rust](https://api.lenguajes.com/rust) | Ofrece seguridad de memoria, ideal para sistemas y alto rendimiento. |
+| ![Logo](https://via.placeholder.com/15) [HTML](https://api.lenguajes.com/html) | Esencial para la estructura de páginas web. |
+| ![Logo](https://via.placeholder.com/15) [CSS](https://api.lenguajes.com/css) | Usado para estilizar las páginas web. |
+| ![Logo](https://via.placeholder.com/15) [SQL](https://api.lenguajes.com/sql) | Lenguaje para gestionar y consultar bases de datos. |
+| ![Logo](https://via.placeholder.com/15) [Shell Scripting (Bash)](https://api.lenguajes.com/bash) | Para automatización y administración de sistemas en entornos Unix. |
+| ![Logo](https://via.placeholder.com/15) [R](https://api.lenguajes.com/r) | Especializado en estadísticas y análisis de datos. |
+| ![Logo](https://via.placeholder.com/15) [Scala](https://api.lenguajes.com/scala) | Programación funcional y orientada a objetos, usado en Big Data. |
+| ![Logo](https://via.placeholder.com/15) [Objective-C](https://api.lenguajes.com/objectivec) | Históricamente usado en macOS y iOS. |
+| ![Logo](https://via.placeholder.com/15) [Lua](https://api.lenguajes.com/lua) | Lenguaje ligero para videojuegos y scripts embebidos. |
 
 ---
 
