@@ -45,6 +45,92 @@
 [![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=jenkins&logoColor=white)](https://scikit-learn.org/)
 
 ---
+## 🛡️ Ciberseguridad: Protegiendo el Futuro Digital
+
+La ciberseguridad es mi pasión y mi compromiso para crear un entorno digital más seguro. Aquí comparto mis logros, proyectos y recursos destacados que reflejan mi experiencia en este emocionante campo.
+
+---
+
+### 🔐 **Mis Logros en Ciberseguridad**
+#### 📜 Certificaciones
+- [**CompTIA Security+**](https://www.comptia.org/) – Certificación en fundamentos de seguridad y protección de sistemas.  
+- [**Certified Ethical Hacker (CEH)**](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) – Formación avanzada en pruebas de penetración y técnicas de hacking ético.  
+- [**Cisco CyberOps Associate**](https://www.cisco.com/) – Dominio en operaciones de seguridad y monitoreo de amenazas.  
+
+#### 🏆 Reconocimientos
+- **Top 10% en Capture the Flag (CTF)** – Competencia internacional de resolución de retos de ciberseguridad.  
+- **Bug Bounty Programs:** Reporte de vulnerabilidades críticas en plataformas como HackerOne y Bugcrowd.  
+- **Ponente Invitado** – Conferencia sobre "El futuro del pentesting" en [CyberSec Valencia](https://cybersecvalencia.com).
+
+---
+
+### 💻 **Proyectos Destacados**
+#### 🔗 [**Sistema de Monitoreo de Intrusos**](https://github.com/tu_usuario/IDS-proyecto)  
+- Un sistema desarrollado con Snort para detectar y mitigar ataques en tiempo real.  
+- **Tecnologías:** Python, Wireshark, Snort, Elastic Stack.  
+- ![Vista del Proyecto](https://via.placeholder.com/300x150.png)  
+
+#### 🔗 [**Cifrado Seguro de Archivos**](https://github.com/tu_usuario/file-encryption)  
+- Herramienta de cifrado basada en AES para proteger documentos sensibles.  
+- **Características:** Interfaz gráfica, integración multiplataforma, y cifrado en un clic.  
+- ![Ejemplo de Interfaz](https://via.placeholder.com/300x150.png)
+
+---
+
+### 🧠 **Habilidades Técnicas**
+| 🛠️ **Habilidad**      | 💡 **Descripción**                                                                 |
+|------------------------|----------------------------------------------------------------------------------|
+| **Pentesting**         | Identificación de vulnerabilidades en redes y sistemas.                        |
+| **Análisis Forense**   | Investigación de incidentes y recuperación de evidencia digital.               |
+| **Cifrado y Criptografía** | Implementación de algoritmos seguros para proteger datos.                     |
+| **Gestión de SIEM**     | Configuración y análisis en Splunk y Elastic Stack para monitoreo avanzado.    |
+
+---
+
+### 🌐 **Recursos y Herramientas**
+#### 🛠️ Herramientas Clave:
+- **Kali Linux:** Mi herramienta favorita para pruebas de penetración.  
+- **Metasploit:** Automatización de ataques y pruebas de exploits.  
+- **Burp Suite:** Análisis de vulnerabilidades en aplicaciones web.  
+- **Wireshark:** Captura y análisis de tráfico de red.  
+
+#### 📚 Recursos de Aprendizaje:
+- [Hack The Box](https://www.hackthebox.com/) – Practica tus habilidades en entornos reales.  
+- [TryHackMe](https://tryhackme.com/) – Lecciones interactivas de ciberseguridad.  
+- [OWASP Top 10](https://owasp.org/) – Conoce las vulnerabilidades más comunes en aplicaciones web.  
+
+---
+
+### 🌟 **Inspiración y Filosofía**
+> “En el mundo digital, el conocimiento es nuestra mejor armadura.”  
+> **— Kevin Mitnick**
+
+---
+
+### 📷 **Galería de Ciberseguridad**
+| Logro o Evento                | Imagen                                                                 |
+|-------------------------------|------------------------------------------------------------------------|
+| **Competencia CTF**           | ![Competencia](https://via.placeholder.com/200x150.png)               |
+| **Taller de Pentesting**      | ![Taller](https://via.placeholder.com/200x150.png)                    |
+| **Certificación CEH**         | ![CEH](https://via.placeholder.com/200x150.png)                       |
+
+---
+
+### 📅 **Próximos Retos**
+- Crear un sistema de detección de intrusos basado en IA.  
+- Participar en el **DEF CON CTF**.  
+- Convertirme en instructor certificado en [CyberSecAcademy](https://cybersecacademy.com/).  
+
+---
+
+### 🔗 **Conéctate Conmigo**
+📧 **Email:** [enrique.lopez@ejemplo.com](mailto:enrique.lopez@ejemplo.com)  
+🌐 **LinkedIn:** [Mi perfil profesional](https://linkedin.com/in/tu_perfil)  
+💻 **GitHub:** [Repositorio de proyectos](https://github.com/tu_usuario)  
+
+¡Explora más sobre mi trayectoria y acompáñame en este apasionante viaje por la seguridad digital! 🚀
+
+---
 
 ## 🚀 Proyectos Destacados
 
