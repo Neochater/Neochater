@@ -85,6 +85,31 @@
 
 ---
 
+## 🎪 Mis Logros en Cursos de Circo
+
+Aquí comparto algunos de los logros destacados que he conseguido a lo largo de mis cursos y entrenamientos en disciplinas de circo. Estos logros reflejan habilidades, dedicación y esfuerzo en este arte.
+
+### 🏆 Logros Destacados:
+- **Dominio del Malabarismo (2023):** Realicé una rutina de 5 minutos combinando bolas, aros y clavas sin interrupciones.  
+- **Acrobacia Aérea (2024):** Perfeccioné figuras avanzadas en tela y trapecio con coreografías sincronizadas.  
+- **Equilibrio en Cuerda Floja (2022):** Crucé una cuerda de 10 metros de largo a 2 metros de altura.  
+- **Clown Avanzado (2023):** Participé en una presentación teatral con técnicas de clown, obteniendo una gran ovación.  
+
+### 📜 Certificaciones:
+- **Curso Intensivo de Malabarismo y Equilibrio – Escuela de Circo Valencia (2023)**  
+- **Entrenamiento Profesional de Artes Aéreas – Cirque du Soleil Workshop (2024)**  
+- **Curso de Técnicas de Clown y Comedia Física – Clown Academy Barcelona (2023)**  
+
+### 🎥 Videos y Proyectos:
+Si quieres ver algunos de estos logros en acción, visita mi [Canal de YouTube](https://youtube.com/) o echa un vistazo a mis proyectos de circo en [este repositorio](https://github.com/tu_usuario/proyectos-circo).
+
+### 🚀 Próximos Retos:
+- Participar en una competición de malabarismo internacional.  
+- Perfeccionar el salto mortal en trampolín.  
+- Desarrollar un espectáculo completo combinando disciplinas.  
+
+---
+
 ## 🚀 Proyectos Destacados en Inteligencia Artificial
 
 ### [🤖 Asistente de Chat Automático](https://github.com/enriqueprim/asistente-chat-automatico)
