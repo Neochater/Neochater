@@ -78,12 +78,12 @@ La ciberseguridad es mi pasión y mi compromiso para crear un entorno digital m�
 ---
 
 ### 🧠 **Habilidades Técnicas**
-| 🛠️ **Habilidad**      | 💡 **Descripción**                                                                 |
-|------------------------|----------------------------------------------------------------------------------|
+| 🛠️ **Habilidad**      | 💡 **Descripción**                                                             |
+|------------------------|--------------------------------------------------------------------------------|
 | **Pentesting**         | Identificación de vulnerabilidades en redes y sistemas.                        |
 | **Análisis Forense**   | Investigación de incidentes y recuperación de evidencia digital.               |
-| **Cifrado y Criptografía** | Implementación de algoritmos seguros para proteger datos.                     |
-| **Gestión de SIEM**     | Configuración y análisis en Splunk y Elastic Stack para monitoreo avanzado.    |
+| **Cifrado y Criptografía** | Implementación de algoritmos seguros para proteger datos.                  |
+| **Gestión de SIEM**     | Configuración y análisis en Splunk y Elastic Stack para monitoreo avanzado.   |
 
 ---
 
@@ -108,8 +108,8 @@ La ciberseguridad es mi pasión y mi compromiso para crear un entorno digital m�
 ---
 
 ### 📷 **Galería de Ciberseguridad**
-| Logro o Evento                | Imagen                                                                 |
-|-------------------------------|------------------------------------------------------------------------|
+| Logro o Evento                | Imagen                                                                |
+|-------------------------------|-----------------------------------------------------------------------|
 | **Competencia CTF**           | ![Competencia](https://via.placeholder.com/200x150.png)               |
 | **Taller de Pentesting**      | ![Taller](https://via.placeholder.com/200x150.png)                    |
 | **Certificación CEH**         | ![CEH](https://via.placeholder.com/200x150.png)                       |
@@ -189,8 +189,8 @@ Aquí comparto algunos de los logros destacados que he conseguido a lo largo de 
 ### 🖼️ Pegatinas de Logros
 A continuación, comparto imágenes de las pegatinas que he recibido por completar mis cursos y alcanzar mis logros.  
 
-| Logro                     | Pegatina                                                                 |
-|---------------------------|-------------------------------------------------------------------------|
+| Logro                     | Pegatina                                                                  |
+|---------------------------|---------------------------------------------------------------------------|
 | **Dominio del Malabarismo** | ![Malabarismo](ruta/a/tu/imagen1.png)                                   |
 | **Acrobacia Aérea**        | ![Acrobacia Aérea](ruta/a/tu/imagen2.png)                                |
 | **Equilibrio en Cuerda**   | ![Cuerda Floja](ruta/a/tu/imagen3.png)                                   |
