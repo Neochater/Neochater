@@ -101,7 +101,7 @@ Aquí comparto algunos de los logros destacados que he conseguido a lo largo de 
 - **Curso de Técnicas de Clown y Comedia Física – Clown Academy Barcelona (2023)**  
 
 ### 🎥 Videos y Proyectos:
-Si quieres ver algunos de estos logros en acción, visita mi [Canal de YouTube](https://youtube.com/) o echa un vistazo a mis proyectos de circo en [este repositorio](https://github.com/tu_usuario/proyectos-circo).
+Si quieres ver algunos de estos logros en acción, visita mi [Canal de YouTube](https://youtube.com/) o echa un vistazo a mis proyectos de cisco en [este repositorio](https://github.com/tu_usuario/proyectos-circo).
 
 ### 🚀 Próximos Retos:
 - Participar en una competición de malabarismo internacional.  
