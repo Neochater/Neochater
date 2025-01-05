@@ -68,12 +68,12 @@ La ciberseguridad es mi pasión y mi compromiso para crear un entorno digital m�
 #### 🔗 [**Sistema de Monitoreo de Intrusos**](https://github.com/tu_usuario/IDS-proyecto)  
 - Un sistema desarrollado con Snort para detectar y mitigar ataques en tiempo real.  
 - **Tecnologías:** Python, Wireshark, Snort, Elastic Stack.  
-- ![Vista del Proyecto](https://via.placeholder.com/300x150.png)  
+  ![Vista del Proyecto](https://via.placeholder.com/300x150.png)  
 
 #### 🔗 [**Cifrado Seguro de Archivos**](https://github.com/tu_usuario/file-encryption)  
 - Herramienta de cifrado basada en AES para proteger documentos sensibles.  
 - **Características:** Interfaz gráfica, integración multiplataforma, y cifrado en un clic.  
-- ![Ejemplo de Interfaz](https://via.placeholder.com/300x150.png)
+  ![Ejemplo de Interfaz](https://via.placeholder.com/300x150.png)
 
 ---
 
