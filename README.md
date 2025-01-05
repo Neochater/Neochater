@@ -100,6 +100,16 @@ Aquí comparto algunos de los logros destacados que he conseguido a lo largo de 
 - **Entrenamiento Profesional de Artes Aéreas – Cirque du Soleil Workshop (2024)**  
 - **Curso de Técnicas de Clown y Comedia Física – Clown Academy Barcelona (2023)**  
 
+### 🖼️ Pegatinas de Logros
+A continuación, comparto imágenes de las pegatinas que he recibido por completar mis cursos y alcanzar mis logros.  
+
+| Logro                     | Pegatina                                                                 |
+|---------------------------|-------------------------------------------------------------------------|
+| **Dominio del Malabarismo** | ![Malabarismo](ruta/a/tu/imagen1.png)                                   |
+| **Acrobacia Aérea**        | ![Acrobacia Aérea](ruta/a/tu/imagen2.png)                                |
+| **Equilibrio en Cuerda**   | ![Cuerda Floja](ruta/a/tu/imagen3.png)                                   |
+| **Clown Avanzado**         | ![Clown](ruta/a/tu/imagen4.png)                  
+
 ### 🎥 Videos y Proyectos:
 Si quieres ver algunos de estos logros en acción, visita mi [Canal de YouTube](https://youtube.com/) o echa un vistazo a mis proyectos de cisco en [este repositorio](https://github.com/tu_usuario/proyectos-circo).
 
