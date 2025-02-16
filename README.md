@@ -51,6 +51,12 @@ La ciberseguridad es mi pasión y mi compromiso para crear un entorno digital m�
 
 ---
 
+## Mis certificaciones en Credly  
+Puedes ver mis certificaciones en mi perfil de Credly aquí:  
+[![Credly](https://images.credly.com/images/fd092703-61db-4e9f-9c7c-49cb46bdf741/blob.png)](https://www.credly.com/users/enrique.jose.lopez.prim)  
+
+---
+
 ### 🔐 **Mis Logros en Ciberseguridad**
 #### 📜 Certificaciones
 - [**CompTIA Security+**](https://www.comptia.org/) – Certificación en fundamentos de seguridad y protección de sistemas.  
