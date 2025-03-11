@@ -46,11 +46,11 @@
 
 
 ### 🛡️ Ciberseguridad:
-[![Nmap](https://img.shields.io/badge/Nmap-0078D7.svg?style=flat&logo=nmap&logoColor=white)](https://nmap.org/)  
-[![Metasploit](https://img.shields.io/badge/Metasploit-202020.svg?style=flat&logo=metasploit&logoColor=white)](https://www.metasploit.com/)  
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org/)  
-[![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF7300.svg?style=flat&logo=burp-suite&logoColor=white)](https://portswigger.net/burp)  
-[![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-333333.svg?style=flat&logo=john-the-ripper&logoColor=white)](https://www.openwall.com/john/)  
+[![Nmap](https://img.shields.io/badge/Nmap-%0078D7.svg?style=flat&logo=nmap&logoColor=white)](https://nmap.org/)  
+[![Metasploit](https://img.shields.io/badge/Metasploit-%202020.svg?style=flat&logo=metasploit&logoColor=white)](https://www.metasploit.com/)  
+[![Wireshark](https://img.shields.io/badge/Wireshark-%1679A7.svg?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org/)  
+[![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%FF7300.svg?style=flat&logo=burp-suite&logoColor=white)](https://portswigger.net/burp)  
+[![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-%333333.svg?style=flat&logo=john-the-ripper&logoColor=white)](https://www.openwall.com/john/)  
 
 Si necesitas más herramientas o algún otro ajuste, dime 😃.
 
