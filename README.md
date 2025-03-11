@@ -71,7 +71,6 @@
 ### 🛡️ Ciberseguridad:
 
 ### 🔥 Red Team:
-### 🔥 Ciberseguridad - Red Team:
 [![CrackMapExec](https://img.shields.io/badge/CrackMapExec-00A2E8.svg?style=flat&logo=windows&logoColor=white)](https://github.com/byt3bl33d3r/CrackMapExec)
 [![SMBClient](https://img.shields.io/badge/SMBClient-FF0000.svg?style=flat&logo=windows&logoColor=white)](https://linux.die.net/man/1/smbclient)
 [![Dirb](https://img.shields.io/badge/Dirb-0099FF.svg?style=flat&logo=linux&logoColor=white)](https://github.com/v0re/dirb)
