@@ -70,7 +70,7 @@
 
 ### 🛡️ Ciberseguridad:
 
-### 🔥 Ciberseguridad - Red Team:
+### 🔥 Red Team:
 [![Metasploit](https://img.shields.io/badge/Metasploit-4479A1.svg?style=flat&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
 [![Nmap](https://img.shields.io/badge/Nmap-004A80.svg?style=flat&logo=nmap&logoColor=white)](https://nmap.org/)
 [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF813F.svg?style=flat&logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
@@ -82,7 +82,7 @@
 [![Impacket](https://img.shields.io/badge/Impacket-1E90FF.svg?style=flat&logo=powershell&logoColor=white)](https://github.com/SecureAuthCorp/impacket)
 [![Cobalt Strike](https://img.shields.io/badge/Cobalt%20Strike-FF0000.svg?style=flat&logo=cobalt&logoColor=white)](https://www.cobaltstrike.com/)
 
-### 🛡️ Ciberseguridad - Blue Team:
+### 🛡️ Blue Team:
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![Splunk](https://img.shields.io/badge/Splunk-000000.svg?style=flat&logo=splunk&logoColor=white)](https://www.splunk.com/)
 [![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571.svg?style=flat&logo=elastic-stack&logoColor=white)](https://www.elastic.co/what-is/elk-stack)
