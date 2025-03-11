@@ -71,16 +71,22 @@
 ### 🛡️ Ciberseguridad:
 
 ### 🔥 Red Team:
-[![Metasploit](https://img.shields.io/badge/Metasploit-4479A1.svg?style=flat&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
+### 🔥 Ciberseguridad - Red Team:
+[![CrackMapExec](https://img.shields.io/badge/CrackMapExec-00A2E8.svg?style=flat&logo=windows&logoColor=white)](https://github.com/byt3bl33d3r/CrackMapExec)
+[![SMBClient](https://img.shields.io/badge/SMBClient-FF0000.svg?style=flat&logo=windows&logoColor=white)](https://linux.die.net/man/1/smbclient)
+[![Dirb](https://img.shields.io/badge/Dirb-0099FF.svg?style=flat&logo=linux&logoColor=white)](https://github.com/v0re/dirb)
+[![Hydra](https://img.shields.io/badge/Hydra-00A859.svg?style=flat&logo=lock&logoColor=white)](https://github.com/vanhauser-thc/thc-hydra)
+[![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-8A2BE2.svg?style=flat&logo=lock&logoColor=white)](https://www.openwall.com/john/)
+[![CyberChef](https://img.shields.io/badge/CyberChef-FFDD00.svg?style=flat&logo=java&logoColor=black)](https://gchq.github.io/CyberChef/)
+[![Revshells](https://img.shields.io/badge/Revshells-000000.svg?style=flat&logo=github&logoColor=white)](https://github.com/pentestmonkey/revshells)
+[![Enum4Linux](https://img.shields.io/badge/Enum4Linux-0085CA.svg?style=flat&logo=linux&logoColor=white)](https://github.com/portcullislabs/enum4linux)
 [![Nmap](https://img.shields.io/badge/Nmap-004A80.svg?style=flat&logo=nmap&logoColor=white)](https://nmap.org/)
+[![WPScan](https://img.shields.io/badge/WPScan-FF813F.svg?style=flat&logo=wordpress&logoColor=white)](https://wpscan.com/)
+[![Metasploit](https://img.shields.io/badge/Metasploit-4479A1.svg?style=flat&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
 [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF813F.svg?style=flat&logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
 [![SQLmap](https://img.shields.io/badge/SQLmap-FACA15.svg?style=flat&logo=sqlite&logoColor=black)](https://sqlmap.org/)
-[![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-8A2BE2.svg?style=flat&logo=lock&logoColor=white)](https://www.openwall.com/john/)
-[![Hydra](https://img.shields.io/badge/Hydra-00A859.svg?style=flat&logo=lock&logoColor=white)](https://github.com/vanhauser-thc/thc-hydra)
-[![Empire](https://img.shields.io/badge/Empire-000000.svg?style=flat&logo=windows-terminal&logoColor=white)](https://github.com/BC-SECURITY/Empire)
-[![Responder](https://img.shields.io/badge/Responder-800000.svg?style=flat&logo=wifi&logoColor=white)](https://github.com/lgandx/Responder)
-[![Impacket](https://img.shields.io/badge/Impacket-1E90FF.svg?style=flat&logo=powershell&logoColor=white)](https://github.com/SecureAuthCorp/impacket)
-[![Cobalt Strike](https://img.shields.io/badge/Cobalt%20Strike-FF0000.svg?style=flat&logo=cobalt&logoColor=white)](https://www.cobaltstrike.com/)
+[![Nessus](https://img.shields.io/badge/Nessus-5F5F5F.svg?style=flat&logo=nessus&logoColor=white)](https://www.tenable.com/products/nessus)
+[![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-FF6600.svg?style=flat&logo=aircrack-ng&logoColor=white)](https://www.aircrack-ng.org/)
 
 ### 🛡️ Blue Team:
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
