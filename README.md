@@ -98,6 +98,7 @@
 [![Security Onion](https://img.shields.io/badge/Security%20Onion-4A90E2.svg?style=flat&logo=onion&logoColor=white)](https://securityonion.net/)
 [![Zeek](https://img.shields.io/badge/Zeek-800000.svg?style=flat&logo=network&logoColor=white)](https://zeek.org/)
 [![Velociraptor](https://img.shields.io/badge/Velociraptor-008080.svg?style=flat&logo=raptor&logoColor=white)](https://www.velociraptor.app/)
+[![Carbon Black](https://img.shields.io/badge/Carbon%20Black-1B68B1.svg?style=flat&logo=carbon-black&logoColor=white)](https://www.carbonblack.com/)
 
 
 ---
